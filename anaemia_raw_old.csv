@@ -1,0 +1,1038 @@
+id2,sex,operat,hb_pre,hb_post,death,deathICU,return,hpt,weight,height,FFP,plts,rbc,los_pre,los_post,los,futime,death_fu,date_operat,datetime_end_fu,wgt,ht,hb_post2
+AB054,Female,Elective,122,102,alive,alive,no, yes,108,1.36,3,0,0,1,15,16,106,0,28-Jan-22,14/05/2022 17:45,108kg,1.44m,102
+AB917,Female,Elective,127,96,alive,alive,no,no,52,1.45,3,0,5,2,10,12,132,0,24-Jan-22,05/06/2022 17:59,52kg,1.45,96
+AB318,Female,Elective,108,89,alive,alive,no, yes,56,1.45,13,2,6,1,20,21,140,0,13-Mar-22,31/07/2022 04:50,56kg,1.45,89
+AB766,Female,Elective,108,91,alive,alive,no, yes,56,1.46,11,4,8,1,22,23,124,0,18-Jan-22,22/05/2022 13:00,56kg,1.46,91
+AB971,Male,Elective,144,102,alive,alive,no,no,57.5,1.46,3,0,3,1,5,6,136,0,04-Jan-22,20/05/2022 21:48,57.5kg,1.46,102
+AB715,Female,Elective,135,106,alive,alive,NA, yes,82.5,1.47,0,0,0,3,8,11,112,0,01-Oct-21,21/01/2022 06:03,82.5kg,1.47,106
+AB544,Female,Elective,121,88,alive,alive,NA, yes,61,1.48,4,0,4,1,18,19,42,0,28-Dec-22,08/02/2023 02:59,61kg,1.48,88
+AB985,Female,Elective,110,86,alive,alive,no,no,66,1.48,0,0,0,2,69,71,108,0,14-Jul-21,30/10/2021 15:37,66kg,1.48,86
+AB661,Female,Elective,122,99,alive,alive,no, yes,67,1.48,0,0,2,0,6,6,108,0,20-May-21,05/09/2021 09:19,67kg,1.48,99
+AB361,Female,Elective,114,79,alive,alive,no, yes,48,1.49,2,0,2,1,11,12,140,0,03-Mar-22,21/07/2022 02:16,48kg,1.49,79
+AB469,Female,Elective,131,95,alive,alive,no,no,50,1.49,0,0,7,1,8,9,132,0,18-Mar-22,28/07/2022 07:57,50kg,1.49,95
+AB523,Male,Elective,146,99,alive,alive,no,no,53.5,1.49,3,1,3,1,6,7,147,1,10-Jan-21,06/06/2021 11:59,53.5kg,1.49,99
+AB537,Female,Elective,111,84,alive,alive,no,no,66,1.49,0,0,0,1,65,66,140,0,17-Feb-21,07/07/2021 07:55,66kg,1.49,84
+AB213,Female,Elective,125,101,alive,alive,no, yes,67,1.49,0,0,4,0,6,6,95,0,06-Apr-22,10/07/2022 02:14,67kg,1.49,101
+AB156,Female,Elective,130,87,alive,alive,no, yes,76,1.49,1,1,3,1,7,8,101,0,21-Jul-22,30/10/2022 01:43,76kg,1.49,87
+AB604,Female,Elective,129,89,alive,alive,no, yes,76,1.49,2,2,4,1,8,9,136,0,08-Sep-21,22/01/2022 18:14,76kg,1.49,89
+AB267,Female,Elective,139,105,alive,alive,NA, yes,77.5,1.49,0,0,0,2,7,9,119,0,30-May-22,26/09/2022 03:15,77.5kg,1.49,105
+AB956,Female,Elective,136,94,alive,alive,no, yes,41,1.5,0,0,0,0,17,17,98,0,05-Jun-22,11/09/2022 12:05,41kg,1.5,94
+AB992,Female,Elective,120,87,alive,alive,NA, yes,61,1.5,4,0,4,1,21,22,20,1,01-May-22,21/05/2022 22:27,61kg,1.5,87
+AB214,Female,Elective,119,NA,alive,alive,no, yes,77,1.5,0,0,3,1,7,8,131,0,04-May-22,12/09/2022 20:41,77kg,1.5,higher than assay can measure
+AB852,Female,Elective,152,93,alive,alive,no, yes,44,1.51,0,0,2,1,3,4,130,0,18-Nov-22,28/03/2023 15:36,44kg,1.51,93
+AB508,Female,Elective,134,93,alive,alive,no, yes,46,1.51,0,0,0,0,18,18,141,0,20-Feb-22,11/07/2022 01:21,46kg,1.51,93
+AB440,Female,Elective,139,99,alive,alive,no,no,58,1.51,0,0,3,2,13,15,118,0,01-Mar-22,27/06/2022 22:47,58kg,1.51,99
+AB096,Female,Elective,113,109,alive,alive,no, yes,66,1.51,0,0,0,1,36,37,102,0,10-Jun-22,20/09/2022 00:53,66kg,1.51,109
+AB298,Female,Elective,139,92,alive,alive,no, yes,81.400002,1.51,4,1,0,1,13,14,103,0,06-Dec-21,19/03/2022 01:14,81.400002kg,1.51,92
+AB404,Female,Elective,152,92,alive,alive,no, yes,38,1.52,0,1,4,1,5,6,149,0,11-Aug-22,07/01/2023 12:51,38kg,1.52,92
+AB809,Female,Elective,113,80,alive,alive,no, yes,41,1.52,3,0,3,1,11,12,144,0,21-Oct-22,14/03/2023 11:26,41kg,1.52,80
+AB562,Female,Elective,141,79,alive,alive,no,no,47,1.52,0,0,0,1,3,4,153,0,03-Dec-21,05/05/2022 02:34,47kg,1.52,79
+AB383,Female,Elective,124,83,alive,alive,no, yes,51,1.52,0,0,2,1,14,15,126,0,24-Nov-21,30/03/2022 09:43,51kg,1.52,83
+AB990,Female,Elective,122,93,alive,alive,no,no,57,1.52,0,0,3,1,3,4,136,0,10-Nov-21,26/03/2022 17:45,57kg,1.52,93
+AB720,Female,Elective,140,105,alive,alive,no, yes,61.5,1.52,0,0,2,3,6,9,102,0,02-Mar-22,12/06/2022 14:59,61.5kg,1.52,105
+AB799,Female,Elective,121,107,alive,alive,no, yes,62,1.52,0,0,0,1,12,13,123,0,08-Feb-22,11/06/2022 18:14,62kg,1.52,107
+AB802,Female,Elective,120,123,alive,alive,NA,no,47,1.53,0,0,3,1,8,9,100,0,07-Apr-22,16/07/2022 09:59,47kg,1.53,123
+AB831,Female,Elective,122,86,alive,alive,no, yes,54,1.53,0,0,1,1,13,14,136,0,22-Oct-21,07/03/2022 02:28,54kg,1.53,86
+AB695,Female,Elective,131,120,alive,alive,NA, yes,61,1.53,0,0,2,1,9,10,103,0,25-Aug-22,06/12/2022 21:08,61kg,1.53,120
+AB865,Female,Urgent,97,90,alive,alive, yes, yes,65,1.53,4,2,6,10,10,20,130,0,04-Dec-22,13/04/2023 03:31,65kg,1.53,90
+AB008,Female,Urgent,103,90,alive,alive, yes, yes,69,1.53,5,1,8,12,34,46,107,0,02-Jan-22,19/04/2022 04:44,69kg,1.53,90
+AB184,Male,Urgent,92,88,alive,alive,no, yes,72.599998,1.53,0,0,0,2,4,6,104,0,18-Oct-21,30/01/2022 17:25,72.6,1.53,88
+AB412,Female,Elective,131,98,alive,alive,no, yes,76.5,1.53,0,0,0,1,6,7,135,0,28-May-22,10/10/2022 02:00,76.5kg,1.53,98
+AB746,Female,Elective,138,90,alive,alive,no, yes,82.400002,1.53,5,2,2,1,12,13,96,0,12-Nov-22,16/02/2023 10:13,82.400002kg,1.53,90
+AB354,Female,Elective,121,120,alive,alive,NA,no,49,1.54,0,0,2,1,7,8,132,0,09-Aug-21,19/12/2021 12:47,49kg,1.54,120
+AB982,Female,Elective,142,83,alive,alive,no, yes,53,1.54,0,0,2,1,14,15,121,0,18-Dec-21,18/04/2022 18:24,53kg,1.54,83
+AB673,Female,Urgent,133,99,alive,alive,no,no,56,1.54,0,0,0,1,10,11,142,0,13-Dec-21,04/05/2022 08:08,56kg,1.54,99
+AB783,Female,Elective,124,94,alive,alive,no,no,56,1.54,0,0,0,1,6,7,89,0,17-Jun-22,14/09/2022 01:35,56kg,1.54,94
+AB542,Female,Elective,122,93,alive,alive,no,no,58,1.54,0,0,3,1,7,8,144,0,31-Dec-21,24/05/2022 07:08,58kg,1.54,93
+AB335,Female,Elective,123,95,alive,alive,no,no,62,1.54,0,0,0,1,7,8,112,0,19-Jul-21,08/11/2021 06:47,62kg,1.54,95
+AB530,Female,Elective,153,98,alive,alive,no,no,63,1.54,4,1,2,3,43,46,153,0,05-Apr-21,05/09/2021 04:37,63kg,1.54,98
+AB417,Female,Urgent,100,92,alive,alive, yes, yes,65,1.54,3,1,5,11,13,24,141,0,14-Dec-21,04/05/2022 04:32,65kg,1.54,92
+AB393,Female,Elective,119,81,alive,alive,no, yes,66,1.54,0,0,2,1,15,16,139,0,29-Sep-22,15/02/2023 08:20,66kg,1.54,81
+AB761,Female,Urgent,105,83,alive,alive,no, yes,66,1.54,8,2,18,1,7,8,124,0,11-Apr-22,13/08/2022 01:41,66kg,1.54,83
+AB337,Female,Elective,145,70,alive,alive,no,no,70.400002,1.54,0,0,1,1,7,8,103,0,29-Dec-22,11/04/2023 03:45,70.400002kg,1.54,70
+AB313,Female,Urgent,105,79,alive,alive,no, yes,72,1.54,9,4,22,1,5,6,111,0,31-Mar-22,20/07/2022 06:52,72kg,1.54,79
+AB632,Male,Urgent,92,90,alive,alive,no, yes,72.599998,1.54,0,0,0,2,2,4,102,0,08-Jan-22,20/04/2022 03:25,72.599998kg,1.54,90
+AB662,Female,Elective,117,NA,alive,alive,no, yes,75,1.54,0,0,0,1,7,8,152,0,02-Apr-22,01/09/2022 16:03,75kg,1.54,NA
+AB860,Female,Elective,132,100,alive,alive,no, yes,76.5,1.54,0,0,1,1,7,8,126,0,27-Jun-22,31/10/2022 20:06,76.5kg,1.54,100
+AB291,Female,Elective,127,90,alive,alive,no, yes,81,1.54,0,0,0,1,5,6,113,0,12-Aug-22,03/12/2022 23:10,81kg,1.54,90
+AB121,Female,Elective,118,100,alive,alive,no, yes,106,1.54,0,0,2,1,8,9,112,0,26-Feb-21,18/06/2021 04:26,106kg,1.54,100
+AB1010,Female,Elective,142,82,alive,alive,no,no,45,1.55,0,0,0,1,4,5,136,0,03-Dec-21,18/04/2022 02:49,45kg,1.55,82
+AB534,Female,Elective,138,85,alive,alive,no, yes,50,1.55,0,0,2,2,19,21,130,0,14-Aug-21,22/12/2021 20:29,50kg,1.55,85
+AB225,Female,Urgent,131,94,alive,alive,no,no,52,1.55,0,0,0,1,10,11,132,0,15-Nov-22,27/03/2023 12:05,52kg,1.55,94
+AB243,Female,Elective,132,81,alive,alive,no,no,53,1.55,0,0,5,1,5,6,125,0,17-Jun-21,20/10/2021 02:48,53kg,1.55,81
+AB888,Female,Elective,137,100,alive,alive,no,no,57,1.55,0,0,2,2,19,21,109,0,03-Dec-21,22/03/2022 04:38,57kg,1.55,100
+AB351,Female,Elective,124,110,alive,alive,no, yes,62,1.55,0,0,0,1,11,12,127,0,08-Jun-22,13/10/2022 03:24,62kg,1.55,110
+AB978,Female,Elective,150,98,alive,alive,no,no,64,1.55,4,0,2,3,41,44,152,0,22-Aug-22,21/01/2023 16:44,64kg,1.55,98
+AB247,Female,Elective,129,121,alive,alive,NA, yes,65,1.55,0,0,1,1,8,9,124,1,23-Feb-22,27/06/2022 17:00,65kg,1.55,121
+AB277,Female,Emergency,123,92,alive,alive,no, yes,65,1.55,0,1,7,4,13,17,132,0,17-Aug-22,27/12/2022 10:27,65kg,1.55,92
+AB770,Female,Urgent,109,102,died,alive,no, yes,65,1.55,0,0,14,3,32,35,34,1,30-Jul-22,02/09/2022 04:11,65kg,1.55,102
+AB322,Female,Urgent,110,102,died,alive,no, yes,66,1.55,0,0,12,3,29,32,34,1,25-Mar-22,28/04/2022 11:53,66kg,1.55,102
+AB387,Female,Elective,132,92,alive,alive,no, yes,66.900002,1.55,0,0,0,1,7,8,113,0,24-Apr-22,15/08/2022 09:39,66.900002kg,1.55,92
+AB370,Female,Urgent,122,92,alive,alive,no, yes,67,1.55,0,1,2,1,33,34,41,0,01-Jun-21,12/07/2021 17:26,67kg,1.55,92
+AB835,Female,Elective,134,93,alive,alive,no, yes,69.900002,1.55,0,2,0,1,5,6,110,0,16-Jun-22,04/10/2022 22:21,69.900002kg,1.55,93
+AB785,Female,Elective,149,71,alive,alive,no,no,71.400002,1.55,0,0,2,1,7,8,83,0,24-Aug-21,15/11/2021 12:56,71.400002kg,1.55,71
+AB558,Female,Emergency,136,108,alive,alive,no, yes,102,1.55,0,0,0,1,5,6,152,0,04-Aug-22,03/01/2023 11:40,102kg,1.55,108
+AB007,Female,Elective,115,95,alive,alive,no, yes,105,1.55,7,1,2,1,6,7,109,1,20-Aug-21,07/12/2021 16:49,105kg,1.55,95
+AB103,Male,Elective,146,100,alive,alive,no, yes,57,1.5599999,0,0,1,2,5,7,104,0,12-Sep-22,25/12/2022 00:55,57kg,1.5599999,100
+AB868,Female,Elective,126,91,alive,alive,no,no,57,1.5599999,0,0,3,1,11,12,161,0,12-Apr-22,20/09/2022 23:56,57kg,1.5599999,91
+AB032,Female,Elective,110,74,died,alive,no, yes,61.5,1.5599999,5,1,5,1,16,17,16,1,28-Jun-22,14/07/2022 16:55,61.5kg,1.5599999,74
+AB471,Female,Elective,139,96,alive,alive,no, yes,67,1.5599999,0,0,1,3,7,10,157,1,29-Sep-21,05/03/2022 20:54,67kg,1.5599999,96
+AB919,Female,Elective,139,92,alive,alive,no, yes,70,1.5599999,0,0,0,2,8,10,126,0,11-Mar-21,15/07/2021 19:49,70kg,1.5599999,92
+AB391,Female,Urgent,135,91,alive,alive,no, yes,71.199997,1.5599999,5,0,0,6,10,16,128,0,11-Mar-22,17/07/2022 19:40,71.199997kg,1.5599999,91
+AB187,Female,Elective,132,95,alive,alive,no, yes,77,1.5599999,0,0,0,1,9,10,105,0,08-Dec-21,23/03/2022 06:07,77kg,1.5599999,95
+AB066,Female,Elective,118,94,alive,alive,no, yes,79,1.5599999,0,0,3,3,7,10,98,0,15-Nov-21,21/02/2022 00:47,79kg,1.5599999,94
+AB664,Female,Urgent,94,94,alive,alive,no, yes,80.800003,1.5599999,0,0,1,18,18,36,121,0,28-Aug-22,27/12/2022 23:46,80.800003kg,1.5599999,94
+AB1006,Female,Emergency,135,111,alive,alive,no, yes,102,1.56,0,0,0,1,7,8,116,1,06-Jun-22,30/09/2022 23:44,,1.56,111
+AB502,Female,Urgent,99,87,died,alive,no,no,48,1.5700001,6,1,5,1,16,17,15,1,26-Jul-22,10/08/2022 09:10,48kg,1.5700001,87
+AB691,Female,Elective,132,79,alive,alive,no,no,53,1.5700001,0,0,4,1,6,7,116,0,29-Mar-22,23/07/2022 13:15,53kg,1.5700001,79
+AB272,Female,Elective,142,104,alive,alive,no, yes,61.5,1.5700001,0,0,3,3,6,9,129,0,24-Aug-22,31/12/2022 05:46,61.5kg,1.5700001,104
+AB179,Male,Elective,165,126,alive,alive,no,no,65,1.5700001,0,0,2,1,2,3,102,0,09-Jun-22,19/09/2022 07:51,65kg,1.5700001,126
+AB518,Female,Elective,102,88,alive,alive,no, yes,68,1.5700001,8,2,11,0,18,18,131,0,07-Oct-21,15/02/2022 21:39,68kg,1.5700001,88
+AB966,Female,Elective,101,90,alive,alive,no, yes,70,1.5700001,8,1,11,0,12,12,91,0,06-Feb-22,08/05/2022 05:51,70kg,1.5700001,90
+AB983,Female,Urgent,139,93,alive,alive, yes, yes,75,1.5700001,4,2,11,1,7,8,123,0,24-Sep-21,25/01/2022 01:34,75kg,1.5700001,93
+AB164,Male,Elective,160,129,alive,alive,no, yes,78,1.5700001,0,0,0,1,5,6,71,1,10-Oct-22,20/12/2022 09:04,78kg,1.5700001,129
+AB216,Female,Urgent,97,90,alive,alive,no, yes,78.800003,1.5700001,0,0,0,14,10,24,119,0,19-Apr-22,16/08/2022 23:18,78.800003kg,1.5700001,90
+AB276,Female,Elective,125,109,alive,alive, yes, yes,80,1.5700001,7,1,8,1,6,7,130,0,01-Jan-22,11/05/2022 14:45,80kg,1.5700001,109
+AB612,Male,Elective,161,130,alive,alive,no, yes,80,1.5700001,0,0,0,1,6,7,81,0,08-Mar-22,28/05/2022 21:18,80kg,1.5700001,130
+AB724,Female,Elective,130,110,alive,alive, yes, yes,81,1.5700001,5,4,6,1,7,8,136,0,24-Jun-21,07/11/2021 04:32,81kg,1.5700001,110
+AB172,Female,Urgent,125,94,alive,alive,no, yes,88,1.5700001,0,0,5,1,6,7,92,0,15-Jan-22,17/04/2022 20:57,88kg,1.5700001,94
+AB1006,Female,Emergency,133,111,alive,alive,no, yes,104,1.5700001,0,0,0,1,7,8,116,1,06-Jun-22,30/09/2022 23:44,104kg,1.5700001,111
+AB526,Female,Elective,147,87,alive,alive,no, yes,51,1.58,0,0,0,1,4,5,142,0,01-Mar-22,21/07/2022 04:30,51kg,1.58,87
+AB079,Female,Urgent,102,98,alive,alive,no, yes,56.700001,1.58,0,0,0,6,13,19,107,1,03-Sep-22,19/12/2022 10:10,56.7,1.58,98
+AB420,Female,Elective,125,90,alive,alive,no,no,61,1.58,0,0,2,1,9,10,147,0,15-Oct-22,11/03/2023 02:04,61kg,1.58,90
+AB841,Female,Elective,120,79,alive,alive,no, yes,62,1.58,0,0,1,1,15,16,146,0,13-May-21,06/10/2021 06:45,62kg,1.58,79
+AB533,Female,Urgent,107,100,alive,alive,no, yes,63,1.58,0,0,1,7,40,47,142,0,28-Oct-21,19/03/2022 08:26,63kg,1.58,100
+AB725,Female,Emergency,127,92,alive,alive,no, yes,66,1.58,0,0,4,6,16,22,123,0,05-Apr-22,06/08/2022 12:28,66kg,1.58,92
+AB981,Female,Urgent,104,98,alive,alive,no, yes,66,1.58,0,0,1,6,36,42,103,0,19-May-22,30/08/2022 15:42,66kg,1.58,98
+AB730,Female,Elective,114,81,alive,alive,no, yes,69,1.58,0,0,1,2,7,9,130,0,13-Apr-21,21/08/2021 07:57,69kg,1.58,81
+AB482,Female,Urgent,121,89,alive,alive,no, yes,70,1.58,0,0,1,1,12,13,124,0,29-Jul-22,30/11/2022 04:54,70kg,1.58,89
+AB635,Female,Elective,135,98,alive,alive,no, yes,74,1.58,0,0,0,1,10,11,96,0,18-Mar-22,22/06/2022 13:52,74kg,1.58,98
+AB535,Female,Urgent,137,90,alive,alive, yes, yes,76,1.58,4,2,11,1,3,4,135,0,07-Jan-21,22/05/2021 11:26,76kg,1.58,90
+AB739,Female,Elective,127,89,alive,alive,no, yes,85,1.58,0,0,0,1,5,6,116,0,01-Dec-21,27/03/2022 03:37,85kg,1.58,89
+AB396,Female,Elective,118,110,alive,alive,no, yes,104,1.58,0,0,0,2,9,11,145,0,30-Sep-21,22/02/2022 00:00,104kg,1.58,110
+AB522,Female,Elective,108,96,alive,alive,no, yes,108,1.58,0,0,2,2,11,13,148,0,11-Dec-21,08/05/2022 09:54,108kg,1.58,96
+AB836,Male,Elective,107,105,alive,alive,no, yes,116,1.58,0,0,2,2,4,6,135,0,22-Sep-21,04/02/2022 03:02,116kg,1.58,105
+AB091,Female,Elective,122,94,alive,alive,no,no,45,1.59,0,0,1,1,1,2,96,0,23-Jun-21,27/09/2021 21:53,45kg,1.59,94
+AB045,Female,Elective,129,89,alive,alive,no, yes,46.700001,1.59,0,0,4,1,5,6,105,0,25-Oct-22,07/02/2023 18:44,46.7KG,1.59,89
+AB596,Female,Urgent,135,90,alive,alive,no,no,53,1.59,0,0,1,1,5,6,134,0,07-Mar-21,19/07/2021 15:31,53kg,1.59,90
+AB654,Female,Elective,106,91,alive,alive,no,no,53.5,1.59,0,0,1,1,7,8,116,1,17-Sep-21,11/01/2022 05:25,53.5kg,1.59,91
+AB090,Female,Elective,147,100,alive,alive,no,no,58,1.59,0,0,0,1,7,8,-9,1,11-Jul-22,02/07/2022 11:45,58kg,1.59,100
+AB818,Female,Urgent,124,97,alive,alive,no, yes,64,1.59,0,3,4,1,37,38,23,1,13-Jan-23,05/02/2023 22:32,64kg,1.59,97
+AB105,Female,Elective,134,91,alive,alive,no, yes,68,1.59,0,0,0,1,8,9,113,0,28-Jun-22,19/10/2022 05:46,68kg,1.59,91
+AB839,Female,Urgent,136,90,alive,alive,no, yes,70.199997,1.59,0,0,0,4,12,16,136,0,05-Nov-20,21/03/2021 18:27,70.199997kg,1.59,90
+AB366,Female,Urgent,129,98,alive,alive,no, yes,79,1.59,0,1,1,2,5,7,131,0,23-Apr-22,01/09/2022 13:43,79kg,1.59,98
+AB304,Female,Elective,140,101,alive,alive,no, yes,80,1.59,0,0,3,1,4,5,135,1,28-Sep-22,10/02/2023 17:39,80kg,1.59,101
+AB752,Female,Elective,139,98,alive,alive,no, yes,80,1.59,0,0,1,1,3,4,158,0,27-Feb-22,04/08/2022 12:25,80kg,1.59,98
+AB875,Male,Elective,124,101,alive,alive,NA, yes,80,1.59,5,0,2,1,17,18,125,0,21-Apr-22,24/08/2022 06:06,80kg,1.59,101
+AB124,Female,Elective,120,101,alive,alive,no,no,103,1.59,0,0,4,1,7,8,106,1,31-Aug-21,15/12/2021 09:16,103kg,1.59,101
+AB362,Female,Elective,140,110,alive,alive,no, yes,108,1.59,8,0,0,1,11,12,123,0,21-May-22,21/09/2022 10:32,108kg,1.59,110
+AB970,Female,Elective,110,97,alive,alive,no, yes,108,1.59,0,0,2,2,12,14,118,0,07-Apr-22,03/08/2022 11:28,108kg,1.59,97
+AB034,Female,Elective,NA,106,alive,alive, yes, yes,50,1.6,2,1,9,2,22,24,110,0,09-Jul-22,27/10/2022 18:18,50kg,1.6,106
+AB974,Female,Elective,148,91,alive,alive,no, yes,51,1.6,0,0,0,1,5,6,105,0,14-Dec-22,29/03/2023 07:05,51kg,1.6,91
+AB148,Female,Urgent,136,87,alive,alive,no,no,53,1.6,0,0,3,1,4,5,98,0,02-Dec-22,10/03/2023 07:12,53kg,1.6,87
+AB061,Female,Urgent,133,100,alive,alive,no,no,59,1.6,0,0,0,6,11,17,105,1,01-Oct-21,14/01/2022 21:38,59kg,1.6,100
+AB820,Female,Elective,133,97,alive,alive,no,no,59,1.6,0,0,0,1,2,3,111,0,27-Aug-22,16/12/2022 08:11,59kg,1.6,97
+AB282,Female,Elective,117,81,alive,alive,no, yes,67,1.6,0,0,2,2,7,9,114,0,12-Apr-22,04/08/2022 08:27,67kg,1.6,81
+AB986,Female,Elective,115,100,alive,alive,no, yes,67,1.6,0,0,0,1,6,7,113,0,19-Jul-22,09/11/2022 17:03,67kg,1.6,100
+AB891,Female,Elective,131,96,alive,alive,no, yes,70,1.6,0,0,2,0,7,7,113,0,24-Feb-22,17/06/2022 06:02,70kg,1.6,96
+AB648,Male,Elective,118,121,alive,alive,no, yes,74,1.6,0,0,0,1,3,4,121,0,12-Sep-21,11/01/2022 15:28,74kg,1.6,121
+AB536,Female,Elective,110,89,alive,alive,no, yes,75.400002,1.6,0,0,1,2,10,12,138,0,19-Jun-22,04/11/2022 10:19,75.400002kg,1.6,89
+AB894,Male,Elective,131,102,alive,alive,no, yes,77.900002,1.6,0,0,1,0,9,9,117,0,10-Aug-21,05/12/2021 00:14,77.900002kg,1.6,102
+AB968,Female,Urgent,123,90,alive,alive,no,no,78,1.6,0,0,0,5,99,104,84,1,21-May-22,13/08/2022 01:41,78kg,1.6,90
+AB446,Male,Elective,130,101,alive,alive,no, yes,79.900002,1.6,4,0,0,0,7,7,136,0,05-Oct-21,18/02/2022 00:00,79.900002kg,1.6,101
+AB855,Male,Emergency,151,92,alive,alive,no,no,80,1.6,8,3,8,2,16,18,138,0,28-May-22,13/10/2022 21:36,80kg,1.6,92
+AB475,Female,Urgent,103,85,alive,alive,no,no,82,1.6,5,2,5,12,21,33,142,1,21-Jul-22,10/12/2022 10:07,82kg,1.6,85
+AB814,Female,Urgent,132,98,alive,alive,no, yes,82,1.6,0,2,2,2,6,8,100,0,07-Oct-21,15/01/2022 02:09,82kg,1.6,98
+AB620,Female,Urgent,125,96,alive,alive,no, yes,87,1.6,0,0,4,1,5,6,129,0,01-Apr-22,08/08/2022 20:24,87kg,1.6,96
+AB844,Female,Elective,121,110,alive,alive,no, yes,102,1.6,0,0,0,2,11,13,117,0,25-Jul-22,19/11/2022 13:12,102kg,1.6,110
+AB810,Female,Elective,140,110,alive,alive,no, yes,105,1.6,6,0,0,1,11,12,111,0,20-Sep-22,09/01/2023 00:54,105kg,1.6,110
+AB030,Female,Elective,142,98,alive,alive,no,no,,1.6,0,0,0,2,7,9,85,0,28-Apr-22,22/07/2022 13:49,64kg,1.6,98
+AB881,Female,Elective,102,96,alive,alive,no,no,46,1.61,3,0,4,1,6,7,29,0,18-Dec-22,16/01/2023 02:53,46kg,1.61,96
+AB178,Female,Urgent,121,106,alive,alive, yes, yes,56,1.61,0,0,0,1,5,6,92,0,08-Nov-22,08/02/2023 11:50,56kg,1.61,106
+AB206,Female,Elective,108,89,alive,alive,no,no,57.5,1.61,0,0,2,2,7,9,111,1,17-Sep-22,06/01/2023 03:10,57.5kg,1.61,89
+AB989,Female,Emergency,96,97,alive,alive, yes,no,59,1.61,4,4,9,1,15,16,127,0,22-May-22,26/09/2022 20:35,59kg,1.61,97
+AB024,Male,Elective,130,102,alive,alive, yes,no,61,1.61,5,0,4,1,20,21,88,1,28-Aug-22,24/11/2022 02:24,61kg,1.61,102
+AB073,Female,Elective,119,94,alive,alive,no, yes,63,1.61,6,2,3,1,6,7,103,0,13-May-22,24/08/2022 02:45,63kg,1.61,94
+AB627,Male,Elective,166,128,alive,alive,no,no,65,1.61,0,0,0,1,4,5,129,1,05-Jun-22,12/10/2022 18:42,65kg,1.61,128
+AB407,Male,Emergency,154,93,alive,alive,no,no,71,1.61,6,2,5,2,15,17,129,0,09-Dec-21,17/04/2022 14:46,71kg,1.61,93
+AB443,Female,Elective,132,96,alive,alive,no, yes,71,1.61,0,0,3,0,4,4,149,0,23-Mar-22,19/08/2022 15:16,71kg,1.61,96
+AB200,Male,Elective,120,120,alive,alive,no, yes,75,1.61,0,0,0,1,7,8,93,0,09-Aug-22,10/11/2022 09:29,75kg,1.61,120
+AB515,Male,Urgent,138,83,alive,alive, yes, yes,76,1.61,10,4,12,3,10,13,135,0,25-Jul-21,07/12/2021 00:48,76kg,1.61,83
+AB144,Female,Elective,130,103,alive,alive,no, yes,79,1.61,5,1,0,2,7,9,-5,0,25-Oct-22,20/10/2022 14:56,79kg,1.61,103
+AB042,Female,Elective,123,68,alive,alive,no, yes,81,1.61,3,1,2,1,7,8,93,0,29-Apr-22,31/07/2022 17:06,81kg,1.61,68
+AB048,Female,Emergency,117,95,alive,alive,no, yes,85,1.61,11,2,3,3,7,10,86,0,03-Jan-23,30/03/2023 23:29,85kg,1.61,95
+AB057,Female,Elective,104,99,alive,alive,NA, yes,98,1.61,0,0,3,1,16,17,106,0,31-May-22,14/09/2022 06:17,98kg,1.61,99
+AB807,Female,Elective,134,100,alive,alive,no, yes,98,1.61,0,0,0,1,6,7,141,0,08-Nov-21,29/03/2022 04:29,98kg,1.61,100
+AB388,Male,Elective,105,104,alive,alive,no, yes,116,1.61,0,0,1,2,7,9,135,0,10-Oct-21,22/02/2022 10:17,116kg,1.61,104
+AB433,Female,Elective,100,99,alive,alive,no,no,47,1.62,2,0,2,1,8,9,22,0,18-Jul-22,09/08/2022 06:55,47kg,1.62,99
+AB068,Female,Elective,NA,91,alive,alive,NA,no,48,1.62,2,1,0,9,21,30,95,0,15-Jan-22,20/04/2022 17:50,48kg,1.62,91
+AB950,Female,Urgent,100,88,died,alive,no,no,49,1.62,6,0,7,1,13,14,15,1,17-Sep-22,02/10/2022 11:59,49kg,1.62,88
+AB1000,Female,Elective,120,103,alive,alive,no, yes,52,1.62,0,0,2,1,4,5,107,0,08/01/2022,25/04/2022 18:21,52kg,1.62,103
+AB1000,Female,Elective,120,103,alive,alive,no, yes,52,1.62,0,0,2,1,4,5,107,0,08-Jan-22,25/04/2022 18:21,52kg,1.62,103
+AB1000,Female,Elective,120,103,alive,alive,no, yes,52,1.62,0,0,2,1,4,5,107,0,08-Jan-22,25/04/2022 18:21,,1.62,103
+AB541,Female,Emergency,100,99,alive,alive, yes,no,55,1.62,4,4,9,1,11,12,129,0,20-Apr-22,27/08/2022 11:56,55kg,1.62,99
+AB552,Female,Elective,120,104,alive,alive,no, yes,56,1.62,0,0,2,1,7,8,128,0,09-Jul-22,14/11/2022 12:24,56kg,1.62,104
+AB049,Female,Urgent,115,87,alive,alive,no, yes,58,1.62,0,0,7,9,11,20,89,0,06-Jan-22,05/04/2022 15:21,58kg,1.62,87
+AB538,Female,Elective,114,97,alive,alive,no, yes,68,1.62,0,0,0,1,4,5,138,0,02-Feb-21,20/06/2021 16:20,68kg,1.62,97
+AB166,Male,Elective,127,79,alive,alive,no, yes,73,1.62,0,0,1,3,6,9,114,1,24-Jul-21,15/11/2021 23:53,73kg,1.62,79
+AB718,Female,Elective,140,85,alive,alive,no, yes,73,1.62,4,2,2,1,7,8,106,0,10-Apr-22,25/07/2022 23:57,73kg,1.62,85
+AB774,Female,Urgent,123,86,alive,alive,no, yes,75,1.62,8,3,10,2,9,11,2,1,28-Nov-22,30/11/2022 00:45,75kg,1.62,86
+AB013,Female,Elective,109,106,alive,alive,no, yes,76,1.62,0,0,3,1,18,19,29,0,09-Jan-23,07/02/2023 10:43,76kg,1.62,106
+AB520,Female,Urgent,126,90,alive,alive,no,no,78,1.62,0,0,0,2,102,104,98,1,05-Oct-21,11/01/2022 17:19,78kg,1.62,90
+AB427,Male,Elective,127,100,alive,alive,NA, yes,79,1.62,7,1,1,1,15,16,121,0,18-May-22,16/09/2022 20:54,79kg,1.62,100
+AB592,Female,Elective,133,105,alive,alive,no, yes,80,1.62,4,2,2,2,7,9,22,0,14-Jul-22,05/08/2022 02:48,80kg,1.62,105
+AB525,Female,Elective,145,101,alive,alive,no,no,83.300003,1.62,0,0,0,0,4,4,132,0,01-May-22,10/09/2022 00:44,83.300003kg,1.62,101
+AB266,Female,Elective,137,92,alive,alive,no, yes,84,1.62,12,7,2,1,24,25,132,0,12-Oct-22,21/02/2023 16:16,84kg,1.62,92
+AB923,Female,Urgent,102,84,alive,alive,no,no,86,1.62,5,1,7,10,20,30,123,0,17-Jan-22,20/05/2022 21:21,86kg,1.62,84
+AB381,Female,Urgent,90,90,alive,alive,NA, yes,87.400002,1.62,0,0,2,2,9,11,141,0,25-May-22,13/10/2022 13:18,87.400002kg,1.62,90
+AB085,Female,Urgent,112,95,alive,alive,no,no,92,1.62,0,1,4,23,10,33,115,0,28-Dec-21,22/04/2022 16:16,92kg,1.62,95
+AB359,Female,Elective,136,100,alive,alive,no, yes,93,1.62,0,0,0,1,8,9,136,0,05-Jan-22,21/05/2022 11:12,93kg,1.62,100
+AB409,Male,Elective,133,100,alive,alive,no, yes,103,1.62,0,0,0,1,7,8,157,0,27-May-22,31/10/2022 17:14,103kg,1.62,100
+AB626,Female,Urgent,120,105,alive,alive, yes, yes,55,1.63,0,0,0,1,5,6,126,0,31-Jan-22,06/06/2022 16:26,55kg,1.63,105
+AB532,Female,Elective,122,107,alive,alive,NA,no,57,1.63,0,0,2,1,4,5,135,0,26-May-22,08/10/2022 07:50,57kg,1.63,107
+AB980,Female,Elective,119,104,alive,alive,NA,no,57,1.63,0,0,2,1,6,7,123,0,14-Dec-22,16/04/2023 12:56,57kg,1.63,104
+AB070,Female,Elective,123,90,alive,alive,no, yes,58.5,1.63,0,0,2,1,5,6,102,0,18-Dec-22,30/03/2023 14:28,58.5kg,1.63,90
+AB129,Male,Elective,129,94,alive,alive,no, yes,64.900002,1.63,0,0,1,1,16,17,103,0,09-Oct-21,20/01/2022 01:39,64.9 kg,1.63,94
+AB270,Female,Elective,140,80,alive,alive,no, yes,68,1.63,5,1,3,1,8,9,137,0,13-Sep-21,28/01/2022 12:13,68kg,1.63,80
+AB614,Male,Elective,132,78,alive,alive,no, yes,70,1.63,0,0,2,3,4,7,135,0,06-Dec-21,20/04/2022 04:22,70kg,1.63,78
+AB930,Female,Urgent,118,89,alive,alive,no, yes,70,1.63,0,0,2,1,12,13,110,0,13-Nov-22,03/03/2023 01:12,70kg,1.63,89
+AB269,Male,Elective,155,111,alive,alive,no,no,71,1.63,0,0,2,1,4,5,117,0,12-Jul-22,06/11/2022 12:38,71kg,1.63,111
+AB226,Female,Elective,104,99,alive,alive,no, yes,72,1.63,0,0,3,1,2,3,122,0,22-Aug-21,22/12/2021 00:53,72kg,1.63,99
+AB560,Female,Elective,124,89,alive,alive,no, yes,72.900002,1.63,0,0,4,1,7,8,130,0,17-Apr-22,25/08/2022 17:38,72.900002kg,1.63,89
+AB116,,Elective,116,88,alive,alive,no,no,73,1.63,0,0,0,8,8,16,98,0,21-Aug-22,27/11/2022 00:20,73kg,1.63,88
+AB326,Female,Urgent,123,86,alive,alive,no, yes,73,1.63,6,2,6,2,8,10,11,0,02-Jan-23,13/01/2023 09:56,73kg,1.63,86
+AB106,Female,Urgent,104,94,alive,alive, yes, yes,75,1.63,5,1,2,10,6,16,111,0,01-Jan-22,22/04/2022 03:20,75kg,1.63,94
+AB107,Female,Urgent,118,113,alive,alive, yes,no,75,1.63,6,2,7,1,10,11,96,0,17-Apr-22,22/07/2022 16:39,75kg,1.63,113
+AB967,Male,Elective,141,108,alive,alive,no, yes,75,1.63,0,0,2,1,5,6,129,0,20-May-22,26/09/2022 00:53,75kg,1.63,108
+AB916,Female,Elective,105,107,alive,alive,no,no,81,1.63,0,0,2,1,7,8,129,1,17-Sep-21,24/01/2022 20:16,81kg,1.63,107
+AB545,Male,Elective,137,101,alive,alive,no, yes,82,1.63,0,0,0,1,6,7,144,0,04-Apr-21,26/08/2021 13:56,82kg,1.63,101
+AB973,Female,Elective,145,104,alive,alive,no,no,83.300003,1.63,0,0,0,0,7,7,124,0,08-Sep-21,10/01/2022 06:55,83.300003kg,1.63,104
+AB829,Female,Urgent,92,89,alive,alive,NA, yes,87.400002,1.63,0,0,4,2,13,15,119,0,09-Jun-22,06/10/2022 02:23,87.400002kg,1.63,89
+AB764,Female,Elective,120,102,alive,alive,no, yes,88,1.63,0,0,2,1,6,7,104,0,09-May-22,21/08/2022 15:33,88kg,1.63,102
+AB321,Female,Elective,110,112,alive,alive,no,no,99,1.63,0,0,2,3,22,25,131,0,06-Jun-22,15/10/2022 23:31,99kg,1.63,112
+AB769,Female,Elective,113,113,alive,alive,no,no,100,1.63,0,0,1,3,19,22,132,0,30-Nov-21,11/04/2022 22:16,100kg,1.63,113
+AB857,Male,Elective,132,102,alive,alive,no, yes,100,1.63,0,0,0,1,4,5,130,0,23-Jun-22,31/10/2022 22:43,100kg,1.63,102
+AB295,Female,Elective,128,95,alive,alive,no, yes,105,1.63,0,0,0,1,9,10,88,0,03-Feb-22,02/05/2022 20:23,105kg,1.63,95
+AB372,Female,Elective,132,98,alive,alive,no,no,62,1.64,0,0,0,1,6,7,143,0,12-Nov-21,04/04/2022 02:19,62kg,1.64,98
+AB925,Female,Elective,140,92,alive,alive,no, yes,64,1.64,12,3,7,1,8,9,59,0,04-Oct-21,02/12/2021 07:15,64kg,1.64,92
+AB772,Female,Urgent,94,80,alive,alive,no,no,66,1.64,16,4,10,2,14,16,110,0,08-Feb-21,29/05/2021 16:09,66kg,1.64,80
+AB889,Male,Elective,148,107,alive,alive,no, yes,66,1.64,0,0,0,1,5,6,108,0,06-Aug-22,22/11/2022 10:23,66kg,1.64,107
+AB477,Female,Elective,137,95,alive,alive,no, yes,68,1.64,10,1,6,1,7,8,77,0,19-Dec-22,06/03/2023 14:09,68kg,1.64,95
+AB028,Male,Urgent,127,98,alive,alive,no, yes,69,1.64,0,0,0,5,5,10,80,0,15-Jan-23,05/04/2023 20:28,69kg,1.64,98
+AB576,,Elective,116,87,alive,alive,no,no,69,1.64,0,0,0,6,7,13,95,0,21-Jun-22,24/09/2022 02:00,69kg,1.64,87
+AB674,Female,Elective,103,99,alive,alive,no, yes,70,1.64,0,0,2,1,5,6,129,0,20-Oct-22,26/02/2023 01:27,70kg,1.64,99
+AB702,Male,Elective,137,96,alive,alive, yes,no,71,1.64,4,3,5,1,10,11,145,0,21-Dec-20,15/05/2021 17:46,71kg,1.64,96
+AB738,Female,Elective,126,87,alive,alive,no, yes,71,1.64,0,1,0,1,12,13,152,0,09-Aug-22,08/01/2023 05:49,71kg,1.64,87
+AB307,Female,Elective,119,94,alive,alive,no,no,71.5,1.64,5,0,2,1,8,9,129,0,27-Mar-22,03/08/2022 21:23,71.5kg,1.64,94
+AB071,Male,Urgent,158,86,alive,alive,no, yes,72,1.64,0,0,0,3,8,11,94,0,13-Jun-21,15/09/2021 02:37,72kg,1.64,86
+AB555,Male,Elective,126,96,alive,alive,no, yes,73.5,1.64,0,0,0,1,9,10,140,0,18-May-21,05/10/2021 10:15,73.5kg,1.64,96
+AB717,Male,Elective,153,115,alive,alive,no,no,74,1.64,0,0,1,1,7,8,138,0,01-May-22,16/09/2022 11:20,74kg,1.64,115
+AB374,Female,Elective,133,102,alive,alive,no,no,77,1.64,0,1,3,1,15,16,138,0,07-Jun-22,23/10/2022 07:09,77kg,1.64,102
+AB157,Female,Urgent,125,84,alive,alive,no, yes,78,1.64,0,0,1,9,4,13,104,0,09-Nov-21,21/02/2022 05:02,78kg,1.64,84
+AB468,Female,Elective,103,105,alive,alive,no,no,79,1.64,0,0,1,1,4,5,137,0,12-Jan-22,29/05/2022 00:02,79kg,1.64,105
+AB914,Male,Elective,145,106,alive,alive,no, yes,85.599998,1.64,0,0,0,1,6,7,100,1,18-Oct-22,26/01/2023 08:04,85.599998kg,1.64,106
+AB823,Female,Elective,128,102,alive,alive,no, yes,87,1.64,5,2,2,12,24,36,148,1,07-Apr-21,02/09/2021 18:50,87kg,1.64,102
+AB553,Female,Urgent,131,82,alive,alive,no,no,89,1.64,0,0,2,8,5,13,149,0,19-Nov-21,17/04/2022 16:42,89kg,1.64,82
+AB714,Female,Elective,137,93,alive,alive,no, yes,89,1.64,10,6,4,1,27,28,146,0,27-Aug-22,20/01/2023 17:25,89kg,1.64,93
+AB044,Male,Elective,129,87,died,alive,no, yes,90,1.64,6,1,1,2,27,29,21,1,09-Nov-22,30/11/2022 22:58,90kg,1.64,87
+AB633,Female,Elective,126,97,alive,alive,no, yes,99,1.64,0,0,1,1,19,20,109,0,23-Sep-21,10/01/2022 06:20,99kg,1.64,97
+AB743,Female,Elective,132,91,alive,alive,no, yes,105,1.64,0,0,0,1,7,8,98,0,25-Aug-22,01/12/2022 18:33,105kg,1.64,91
+AB843,Female,Urgent,121,103,alive,alive,no, yes,51,1.65,0,2,1,8,4,12,113,0,14-Dec-21,06/04/2022 17:34,51kg,1.65,103
+AB395,Female,Urgent,122,102,alive,alive,no, yes,57,1.65,0,1,0,8,6,14,121,0,20-Jul-21,18/11/2021 07:00,57kg,1.65,102
+AB126,Female,Emergency,83,104,alive,alive,no, yes,60,1.65,3,5,14,0,28,28,106,0,14-Jan-22,30/04/2022 18:59,60kg,1.65,104
+AB716,Female,Elective,123,95,alive,alive,no, yes,60,1.65,0,3,2,11,4,15,127,0,05-Nov-22,12/03/2023 10:34,60kg,1.65,95
+AB441,Male,Elective,145,106,alive,alive,no, yes,61,1.65,0,0,0,1,4,5,141,0,20-Sep-22,08/02/2023 04:09,61kg,1.65,106
+AB491,Male,Elective,122,97,alive,alive,no,no,66,1.65,0,0,0,1,7,8,163,0,29-Oct-21,10/04/2022 19:26,66kg,1.65,97
+AB268,Female,Elective,124,96,alive,alive,no, yes,67,1.65,0,0,3,19,4,23,130,0,21-Mar-21,29/07/2021 18:07,67kg,1.65,96
+AB237,Female,Elective,128,81,alive,alive,no,no,68,1.65,5,1,3,1,8,9,116,0,14-Jan-22,10/05/2022 00:58,68kg,1.65,81
+AB334,Female,Elective,149,102,alive,alive,no,no,68.199997,1.65,0,0,0,0,4,4,126,0,19-Sep-21,23/01/2022 10:02,68.199997kg,1.65,102
+AB052,Male,Elective,135,96,alive,alive, yes,no,69,1.65,0,0,0,0,38,38,106,0,09-Aug-22,23/11/2022 03:17,69kg,1.65,96
+AB685,Female,Elective,131,83,alive,alive,no,no,71,1.65,4,2,5,1,4,5,121,0,15-Jun-22,14/10/2022 19:20,71kg,1.65,83
+AB755,Female,Elective,121,92,alive,alive,no,no,71.5,1.65,0,0,3,1,9,10,110,0,07-Jul-21,25/10/2021 07:27,71.5kg,1.65,92
+AB315,Male,Elective,123,91,alive,alive,no, yes,72,1.65,0,0,2,1,10,11,128,0,03-Nov-22,11/03/2023 09:53,72kg,1.65,91
+AB763,Male,Elective,124,90,alive,alive,no, yes,73,1.65,0,0,0,1,9,10,113,0,23-Oct-21,13/02/2022 12:51,73kg,1.65,90
+AB519,Male,Elective,145,108,alive,alive,no, yes,75,1.65,0,0,2,1,7,8,142,0,02-Jan-22,24/05/2022 17:26,75kg,1.65,108
+AB893,Female,Urgent,93,103,died,alive,no,no,75,1.65,8,0,23,6,9,15,14,1,26-Dec-22,09/01/2023 14:42,75kg,1.65,103
+AB1008,Female,Elective,122,88,alive,alive,no, yes,75.900002,1.65,0,1,4,1,6,7,92,0,31-Jul-22,31/10/2022 20:24,75.900002kg,1.65,88
+AB669,Male,Elective,134,89,alive,alive,no, yes,77,1.65,0,0,0,1,56,57,107,0,08-May-21,23/08/2021 18:28,77kg,1.65,89
+AB619,Male,Elective,131,103,alive,alive,no,no,78,1.65,0,0,0,2,9,11,95,0,15-Dec-21,20/03/2022 20:33,78kg,1.65,103
+AB984,Female,Elective,112,83,alive,alive,no, yes,79.400002,1.65,0,0,1,2,10,12,142,0,11-Jun-22,31/10/2022 06:53,79.400002kg,1.65,83
+AB161,Female,Urgent,85,95,alive,alive,no, yes,80,1.65,0,0,3,17,9,26,103,0,12-Nov-22,23/02/2023 09:42,80kg,1.65,95
+AB963,Male,Urgent,136,81,alive,alive, yes, yes,81,1.65,10,3,10,3,10,13,104,0,14-Sep-22,27/12/2022 18:10,81kg,1.65,81
+AB088,Female,Elective,127,106,alive,alive,no, yes,82.400002,1.65,0,0,2,1,5,6,109,1,24-Jun-21,11/10/2021 21:58,82.4,1.65,106
+AB605,Female,Urgent,127,84,alive,alive,no, yes,83,1.65,0,0,0,9,4,13,95,0,13-Jan-22,18/04/2022 04:16,83kg,1.65,84
+AB625,Female,Elective,133,99,alive,alive,no, yes,88,1.65,0,0,0,1,6,7,113,0,22-Feb-22,15/06/2022 06:48,88kg,1.65,99
+AB185,Female,Elective,125,96,alive,alive,no, yes,93,1.65,0,0,0,1,22,23,103,0,30-Jul-22,10/11/2022 15:58,93kg,1.65,96
+AB089,Female,Elective,121,106,alive,alive,no, yes,104.2,1.65,0,0,0,1,8,9,90,0,19-Jun-21,17/09/2021 20:09,104.2kg,1.65,106
+AB155,Male,Elective,140,96,alive,alive,no,no,83,1.6564,0,1,0,8,2,10,125,0,10-Feb-22,15/06/2022 23:27,83kg,1.6564,96
+AB399,Female,Elective,128,101,alive,alive,no,no,47,1.66,0,1,1,3,7,10,118,0,07-Jul-22,02/11/2022 01:16,47kg,1.66,101
+AB167,Female,Emergency,85,82,alive,alive,no, yes,58,1.66,9,3,21,10,27,37,119,0,24-Sep-22,21/01/2023 01:52,58kg,1.66,82
+AB292,Female,Elective,143,116,alive,alive,no,no,58,1.66,0,0,0,0,4,4,117,0,28-Jun-21,23/10/2021 00:55,58kg,1.66,116
+AB922,Female,Elective,130,98,alive,alive,no,no,64,1.66,0,0,0,4,7,11,120,0,09-Jul-22,06/11/2022 19:07,64kg,1.66,98
+AB324,Female,Urgent,99,80,alive,alive,no,no,65,1.66,14,2,14,2,15,17,138,0,16-Jul-21,01/12/2021 23:51,65kg,1.66,80
+AB587,Male,Elective,138,114,alive,6,no,no,67.599998,1.66,0,0,0,2,5,7,113,0,21-May-22,11/09/2022 01:21,67.599998kg,1.66,114
+AB782,Female,Elective,150,103,alive,alive,no,no,69.199997,1.66,0,0,0,0,5,5,100,1,15-Dec-22,25/03/2023 18:08,69.199997kg,1.66,103
+AB655,Male,Urgent,137,85,alive,alive,no, yes,72,1.66,0,0,1,22,22,44,116,0,06-Oct-22,30/01/2023 18:34,72kg,1.66,85
+AB047,Male,Elective,140,97,alive,alive,no,no,75.5,1.66,0,0,0,1,6,7,95,1,09-Feb-22,15/05/2022 22:05,75.5kg,1.66,97
+AB822,Female,Elective,132,102,alive,alive,no,no,76,1.66,0,2,4,1,14,15,146,0,11-May-21,04/10/2021 19:23,76kg,1.66,102
+AB021,Male,Urgent,148,141,alive,alive,NA, yes,77,1.66,3,0,1,1,16,17,107,0,04-Dec-21,21/03/2022 21:47,77kg,1.66,141
+AB680,Male,Elective,138,111,alive,alive,no, yes,77,1.66,0,0,0,1,6,7,134,0,03-Oct-22,14/02/2023 13:26,77kg,1.66,111
+AB221,Male,Elective,136,90,alive,alive,no, yes,78,1.66,0,0,0,1,63,64,113,0,14-Aug-21,05/12/2021 19:12,78kg,1.66,90
+AB920,Male,Urgent,123,92,alive,alive,no,no,78,1.66,0,0,0,27,6,33,122,0,19-Oct-22,18/02/2023 04:10,78kg,1.66,92
+AB1003,Male,Elective,125,97,alive,alive,no, yes,78.5,1.66,0,1,0,1,9,10,121,0,22-Aug-21,21/12/2021 06:02,78.5kg,1.66,97
+AB445,Female,Urgent,92,99,died,alive,no,no,80,1.66,4,2,28,5,8,13,14,1,24-Jun-22,08/07/2022 02:56,80kg,1.66,99
+AB703,Male,Urgent,159,97,alive,alive,no, yes,80,1.66,5,3,4,2,6,8,102,0,21-Nov-22,03/03/2023 08:09,80kg,1.66,97
+AB375,Female,Elective,124,103,alive,alive,no, yes,83,1.66,4,1,2,11,25,36,135,0,06-May-21,18/09/2021 16:22,83kg,1.66,103
+AB466,Male,Elective,143,108,alive,alive,no, yes,85.599998,1.66,0,0,0,1,5,6,140,0,17-Jan-22,06/06/2022 10:33,85.599998kg,1.66,108
+AB616,Female,Elective,154,100,alive,alive,no,no,87,1.66,5,0,0,3,46,49,117,0,28-Jul-22,22/11/2022 05:13,87kg,1.66,100
+AB993,Male,Elective,136,103,alive,alive,no, yes,88,1.66,0,0,0,1,3,4,146,0,17-Mar-21,10/08/2021 19:54,88kg,1.66,103
+AB081,Male,Urgent,149,99,alive,alive, yes, yes,90,1.66,0,0,0,2,32,34,117,0,10-Jun-21,05/10/2021 00:05,90kg,1.66,99
+AB745,Male,Elective,130,91,alive,alive,no, yes,94.199997,1.66,0,0,0,1,6,7,126,0,16-Oct-21,19/02/2022 14:11,94.199997kg,1.66,91
+AB528,Male,Elective,146,92,alive,alive,no, yes,999,1.66,0,0,0,1,5,6,130,0,13-Dec-21,22/04/2022 08:19,999kg,1.66,92
+AB976,Male,Elective,141,91,alive,alive,no, yes,999,1.66,0,0,0,1,6,7,112,1,30-Jul-22,19/11/2022 18:36,999kg,1.66,91
+AB546,Female,Elective,112,93,died,alive,no, yes,43,1.67,6,1,10,1,32,33,28,1,18-Jun-22,16/07/2022 17:21,43kg,1.67,93
+AB847,Female,Elective,122,101,alive,alive,no,no,44,1.67,0,2,2,3,5,8,82,0,30-Jan-22,22/04/2022 05:57,44kg,1.67,101
+AB740,Female,Elective,143,114,alive,alive,no,no,57,1.67,0,0,0,0,4,4,129,0,20-Dec-21,28/04/2022 22:29,57kg,1.67,114
+AB001,Female,Urgent,134,92,alive,alive,no,no,61,1.67,7,0,5,8,7,15,93,0,07-Sep-22,09/12/2022 23:10,61kg,1.67,92
+AB474,Female,Elective,132,99,alive,alive,no,no,61,1.67,0,0,0,2,5,7,153,0,27-Dec-21,29/05/2022 08:53,61kg,1.67,99
+AB429,Female,Elective,178,134,alive,alive,no,no,65,1.67,0,0,0,0,34,34,146,0,24-Apr-22,17/09/2022 13:35,65kg,1.67,134
+AB945,Male,Elective,138,81,died,alive,no, yes,66,1.67,7,1,6,1,2,3,3,1,26-Aug-21,29/08/2021 07:26,66kg,1.67,81
+AB505,Female,Elective,118,91,alive,alive,no,no,67,1.67,3,0,2,1,6,7,126,0,20-Aug-21,24/12/2021 12:16,67kg,1.67,91
+AB513,Male,Elective,151,102,alive,alive,no, yes,67,1.67,0,0,3,1,21,22,155,0,28-Jun-22,30/11/2022 09:30,67kg,1.67,102
+AB862,Male,Elective,142,100,alive,alive,no, yes,69,1.67,0,0,0,1,7,8,155,0,29-Jul-21,31/12/2021 18:44,69kg,1.67,100
+AB188,Female,Urgent,122,99,alive,alive,no,no,70.5,1.67,0,0,1,7,7,14,117,0,06-Nov-22,03/03/2023 18:30,70.5kg,1.67,99
+AB290,Female,Elective,126,91,alive,alive,no, yes,71,1.67,0,0,1,1,12,13,126,0,16-Dec-21,21/04/2022 14:29,71kg,1.67,91
+AB207,Male,Urgent,137,85,alive,alive,no, yes,72,1.67,0,0,2,23,19,42,116,0,23-Apr-21,17/08/2021 22:33,72kg,1.67,85
+AB254,Male,Elective,134,98,alive,alive, yes,no,72,1.67,5,2,7,1,9,10,125,0,02-Feb-22,07/06/2022 15:42,72kg,1.67,98
+AB232,Male,Elective,139,112,alive,alive,no, yes,75,1.67,0,0,0,1,7,8,115,0,18-Nov-21,13/03/2022 10:29,75kg,1.67,112
+AB171,Male,Elective,128,101,alive,alive,no,no,80,1.67,0,0,0,1,7,8,110,0,06-Dec-21,26/03/2022 09:33,80kg,1.67,101
+AB255,Male,Urgent,159,91,alive,alive,no, yes,80,1.67,6,2,6,2,8,10,120,0,20-Jun-21,18/10/2021 16:23,80kg,1.67,91
+AB609,Female,Urgent,85,93,alive,alive,no, yes,81,1.67,0,2,2,15,8,23,118,0,06-Jun-22,02/10/2022 04:16,81kg,1.67,93
+AB005,Male,Elective,135,100,died,alive,no, yes,82,1.67,0,0,0,1,151,152,132,1,27-Feb-21,09/07/2021 16:23,82kg,1.67,100
+AB316,Female,Elective,124,104,alive,alive,no, yes,83,1.67,0,0,0,1,3,4,119,0,22-Feb-22,21/06/2022 09:49,83kg,1.67,104
+AB063,Female,Elective,110,94,alive,alive,no, yes,84.199997,1.67,0,0,2,2,12,14,110,0,24-Nov-21,14/03/2022 09:10,84.2,1.67,94
+AB177,Female,Elective,133,100,alive,alive,no, yes,88,1.67,0,0,0,1,5,6,106,0,20-Dec-21,05/04/2022 21:28,88kg,1.67,100
+AB1001,Female,Urgent,130,81,alive,alive,no,no,88,1.67,0,0,2,7,6,13,145,0,23-May-22,15/10/2022 03:49,88kg,1.67,81
+AB583,Male,Elective,148,99,alive,alive,no,no,89,1.67,4,0,0,1,8,9,101,0,14-Feb-22,26/05/2022 11:23,89kg,1.67,99
+AB705,Female,Elective,119,90,alive,alive,no, yes,89.400002,1.67,0,0,0,1,20,21,43,0,18-Mar-22,30/04/2022 03:28,89.400002kg,1.67,90
+AB240,Male,Elective,94,100,alive,alive,no, yes,90,1.67,0,0,2,3,5,8,100,1,03-Jun-22,11/09/2022 08:14,90kg,1.67,100
+AB368,Male,Emergency,144,95,alive,alive,no, yes,113,1.67,6,3,1,0,29,29,125,0,05-Mar-21,08/07/2021 22:48,113kg,1.67,95
+AB377,Female,Elective,111,90,alive,alive,no, yes,48,1.6799999,0,0,1,2,22,24,129,0,19-Sep-22,26/01/2023 15:19,48kg,1.6799999,90
+AB653,Male,Urgent,95,68,alive,alive,no,no,59,1.6799999,0,0,4,2,23,25,156,0,09-Nov-21,14/04/2022 06:42,59kg,1.6799999,68
+AB615,Female,Emergency,86,83,alive,alive,no, yes,64,1.6799999,8,4,15,9,28,37,128,0,10-Jun-21,16/10/2021 03:09,64kg,1.6799999,83
+AB712,Male,Elective,104,94,alive,alive,no,no,68,1.6799999,0,0,4,1,9,10,131,0,19-Feb-21,30/06/2021 03:03,68kg,1.6799999,94
+AB953,Female,Elective,117,87,alive,alive,no,no,68,1.6799999,3,1,1,1,5,6,94,0,25-Dec-22,29/03/2023 02:12,68kg,1.6799999,87
+AB139,Male,Elective,140,111,alive,6,no,no,68.599998,1.6799999,0,0,0,3,4,7,115,0,21-Feb-22,16/06/2022 04:35,69.6,1.6799999,111
+AB554,Male,Urgent,126,77,alive,alive,NA, yes,69,1.6799999,0,0,0,2,9,11,140,0,14-Jan-21,03/06/2021 17:26,69kg,1.6799999,77
+AB877,Female,Elective,178,137,alive,alive,no,no,69,1.6799999,0,0,0,0,39,39,155,0,20-Aug-21,22/01/2022 14:46,69kg,1.6799999,137
+AB961,Male,Elective,148,104,alive,alive,no, yes,69,1.6799999,0,0,1,1,14,15,117,0,22-Aug-22,17/12/2022 11:32,69kg,1.6799999,104
+AB364,Male,Elective,123,69,alive,alive,no,no,69.300003,1.6799999,0,0,0,1,3,4,127,0,03-Mar-22,08/07/2022 10:18,69.300003kg,1.6799999,69
+AB308,Male,Emergency,77,89,alive,alive,no,no,71,1.6799999,3,1,8,2,17,19,121,1,13-Mar-22,12/07/2022 22:54,71kg,1.6799999,89
+AB834,Male,Urgent,114,95,alive,alive,no, yes,72,1.6799999,4,2,0,33,9,42,133,0,27-Mar-22,07/08/2022 03:50,72kg,1.6799999,95
+AB029,Male,Urgent,150,78,alive,alive,no, yes,74,1.6799999,7,2,4,4,7,11,100,0,22-Sep-21,31/12/2021 18:38,74kg,1.6799999,78
+AB768,Female,Urgent,120,101,alive,alive,no, yes,74.5,1.6799999,0,0,4,14,7,21,123,0,16-Jul-22,16/11/2022 14:54,74.5kg,1.6799999,101
+AB690,Male,Elective,136,85,alive,alive, yes,no,78.5,1.6799999,0,0,0,1,31,32,102,0,21-Jul-22,31/10/2022 08:23,78.5kg,1.6799999,85
+AB624,Male,Elective,153,97,alive,alive,no, yes,80.699997,1.6799999,0,0,0,1,4,5,117,0,06-Jan-22,03/05/2022 14:18,80.699997kg,1.6799999,97
+AB472,Male,Urgent,119,90,alive,alive,no,no,81,1.6799999,0,0,0,29,3,32,147,0,15-Nov-21,11/04/2022 16:20,81kg,1.6799999,90
+AB517,Male,Elective,124,86,alive,alive,no,no,83,1.6799999,0,0,3,1,3,4,143,0,09-Feb-22,02/07/2022 18:47,83kg,1.6799999,86
+AB965,Male,Elective,127,84,alive,alive,no,no,83,1.6799999,0,0,3,1,6,7,143,0,07-Apr-22,28/08/2022 21:26,83kg,1.6799999,84
+AB168,Female,Elective,157,99,alive,alive,no,no,84,1.6799999,5,1,0,3,41,44,92,0,10-Apr-21,11/07/2021 16:36,84kg,1.6799999,99
+AB651,Female,Elective,112,94,alive,alive,no, yes,85,1.6799999,0,0,1,1,5,6,118,0,06-Jul-22,01/11/2022 04:29,85kg,1.6799999,94
+AB135,Male,Elective,147,103,alive,alive,no,no,86,1.6799999,3,0,1,1,7,8,98,0,11-Apr-22,18/07/2022 14:40,86kg,1.6799999,103
+AB186,Female,Elective,126,96,alive,alive,no, yes,86,1.6799999,0,0,0,1,6,7,120,0,02-Jun-22,30/09/2022 09:43,86kg,1.6799999,96
+AB176,Male,Elective,155,96,alive,alive,no, yes,86.699997,1.6799999,0,0,0,1,5,6,118,1,19-Dec-22,16/04/2023 22:24,86.7 KG,1.6799999,96
+AB343,Male,Elective,142,100,alive,alive, yes, yes,87.800003,1.6799999,0,0,0,1,37,38,131,0,06-Jul-21,14/11/2021 22:35,87.800003kg,1.6799999,100
+AB347,Female,Elective,137,86,alive,alive, yes, yes,90.099998,1.6799999,0,1,2,3,6,9,136,0,31-Dec-21,16/05/2022 04:47,90.099998kg,1.6799999,86
+AB175,Male,Urgent,114,94,alive,alive,no, yes,90.800003,1.6799999,0,0,3,1,8,9,115,0,04-Nov-22,27/02/2023 16:57,90.8,1.6799999,94
+AB601,Female,Elective,137,100,alive,alive,no,no,103,1.6799999,5,0,0,2,10,12,105,0,24-Apr-22,07/08/2022 01:37,103kg,1.6799999,100
+AB887,Female,Elective,141,108,alive,alive,no,no,113.4,1.6799999,0,0,0,1,6,7,111,1,09-Dec-20,30/03/2021 23:23,113.4kg,1.6799999,108
+AB385,Female,Elective,142,89,alive,alive,no,no,55,1.6900001,0,1,2,1,17,18,137,0,10-Dec-21,26/04/2022 23:57,55kg,1.6900001,89
+AB205,Male,Urgent,96,67,alive,alive,no,no,58,1.6900001,0,0,3,2,16,18,127,0,14-Jul-21,18/11/2021 15:56,58kg,1.6900001,67
+AB098,Female,Urgent,89,88,alive,alive, yes, yes,60.799999,1.6900001,9,3,6,7,32,39,87,0,31-Mar-22,26/06/2022 06:55,60800 g,1.6900001,88
+AB1005,Male,Elective,162,102,alive,alive,no,no,62,1.6900001,0,0,0,2,6,8,88,0,30-Jun-22,26/09/2022 09:35,62kg,1.6900001,102
+AB1002,Male,Urgent,126,79,alive,alive,NA, yes,65,1.6900001,0,0,0,2,9,11,130,0,19-Apr-21,27/08/2021 21:38,65kg,1.6900001,79
+AB059,Male,Elective,110,89,alive,alive,no,no,66,1.6900001,9,1,4,2,25,27,86,1,22-Jul-22,16/10/2022 01:05,66kg,1.6900001,89
+AB819,Male,Urgent,78,92,alive,alive,no,no,66,1.6900001,4,0,5,9,8,17,161,0,16-Aug-22,24/01/2023 06:33,66kg,1.6900001,92
+AB636,Female,Urgent,120,96,alive,alive,no,no,66.5,1.6900001,0,0,2,7,7,14,108,0,19-Mar-22,05/07/2022 05:55,66.5kg,1.6900001,96
+AB358,Male,Elective,145,94,alive,alive,no, yes,68.699997,1.6900001,0,0,0,1,5,6,119,0,02-Aug-22,29/11/2022 07:39,68.699997kg,1.6900001,94
+AB939,Male,Elective,121,99,alive,alive,no,no,69,1.6900001,0,0,1,1,5,6,138,0,10-Dec-21,27/04/2022 21:00,69kg,1.6900001,99
+AB948,Male,Elective,140,96,alive,alive,no, yes,69,1.6900001,0,0,0,1,6,7,107,0,26-Dec-22,12/04/2023 11:32,69kg,1.6900001,96
+AB320,Female,Urgent,118,101,alive,alive,no, yes,70.5,1.6900001,0,0,2,14,4,18,141,0,13-Jul-22,01/12/2022 01:53,70.5kg,1.6900001,101
+AB861,Male,Urgent,144,88,alive,alive,no, yes,71,1.6900001,0,0,0,2,4,6,122,0,27-Aug-22,27/12/2022 22:21,71kg,1.6900001,88
+AB972,Female,Emergency,77,89,died,alive,no, yes,71,1.6900001,9,3,12,1,3,4,5,1,19-Jul-22,24/07/2022 16:08,71kg,1.6900001,89
+AB264,Male,Elective,106,95,alive,alive,no,no,72,1.6900001,0,0,2,1,6,7,123,0,28-Jan-22,31/05/2022 14:35,72kg,1.6900001,95
+AB180,Female,Emergency,130,96,alive,alive,no,no,73,1.6900001,9,3,2,2,8,10,102,0,14-May-22,24/08/2022 19:01,73kg,1.6900001,96
+AB622,Male,Elective,107,81,alive,alive,no,no,73,1.6900001,0,0,1,1,8,9,113,0,23-Dec-21,15/04/2022 07:21,73kg,1.6900001,81
+AB756,Male,Emergency,79,89,alive,alive,no,no,74,1.6900001,4,3,6,2,17,19,104,0,13-Feb-22,28/05/2022 12:27,74kg,1.6900001,89
+AB722,Male,Emergency,89,75,alive,alive,no, yes,77.400002,1.6900001,0,0,4,0,10,10,119,0,12-May-21,08/09/2021 12:08,77.400002kg,1.6900001,75
+AB158,Female,Elective,116,84,alive,alive,no, yes,80,1.6900001,0,0,0,12,7,19,114,0,24-Mar-22,16/07/2022 13:44,80kg,1.6900001,84
+AB645,Male,Elective,118,103,alive,alive,no, yes,81,1.6900001,0,0,0,1,9,10,135,0,17-Jan-22,01/06/2022 18:42,81kg,1.6900001,103
+AB731,Male,Emergency,128,76,alive,alive, yes, yes,81,1.6900001,9,4,15,1,27,28,87,0,03-Nov-21,29/01/2022 11:23,81kg,1.6900001,76
+AB197,Male,Elective,122,101,alive,alive,no, yes,83,1.6900001,0,0,0,1,9,10,116,0,22-Mar-22,16/07/2022 02:45,83kg,1.6900001,101
+AB147,Male,Elective,159,105,alive,alive,no,no,84,1.6900001,0,0,0,1,36,37,118,1,09-Nov-21,07/03/2022 22:52,84kg,1.6900001,105
+AB634,Female,Elective,129,98,alive,alive,no, yes,89,1.6900001,0,0,0,1,4,5,92,0,28-Jun-22,28/09/2022 19:35,89kg,1.6900001,98
+AB928,Male,Elective,154,101,alive,alive,no, yes,89,1.6900001,0,2,0,1,25,26,86,0,04-May-22,29/07/2022 18:56,89kg,1.6900001,101
+AB480,Male,Elective,151,102,alive,alive,no, yes,90,1.6900001,0,1,0,1,27,28,128,0,04-May-21,09/09/2021 05:34,90kg,1.6900001,102
+AB459,Male,Urgent,130,96,alive,alive,no, yes,91,1.6900001,0,0,1,8,12,20,135,0,28-Jan-22,12/06/2022 04:43,91kg,1.6900001,96
+AB907,Male,Urgent,131,102,alive,alive,no, yes,92,1.6900001,0,0,2,9,12,21,118,0,11-Jun-21,07/10/2021 22:45,92kg,1.6900001,102
+AB1024,Male,Elective,154,111,alive,alive,no, yes,96,1.6900001,0,0,0,2,5,7,92,0,09-Nov-21,09/02/2022 11:51,96kg,1.6900001,111
+AB154,Male,Elective,145,122,alive,alive,no,no,97,1.6900001,0,0,1,1,7,8,127,1,03-Jul-22,07/11/2022 13:52,97kg,1.6900001,122
+AB581,Male,Elective,152,90,died,alive,no,no,97,1.6900001,6,2,5,1,81,82,78,1,21-Jun-21,07/09/2021 01:50,97kg,1.6900001,90
+AB569,Male,Elective,155,113,alive,alive,no, yes,99,1.6900001,0,0,0,1,4,5,94,1,19-Oct-21,21/01/2022 09:17,99kg,1.6900001,113
+AB431,Male,Elective,153,114,alive,alive,no, yes,105,1.6900001,0,0,0,1,6,7,146,1,26-Jun-22,19/11/2022 09:08,105kg,1.6900001,114
+AB816,Male,Emergency,144,91,alive,alive,no, yes,112,1.6900001,7,5,2,1,26,27,101,0,14-Dec-21,25/03/2022 06:48,112kg,1.6900001,91
+AB439,Female,Elective,143,107,alive,alive,no,no,114.4,1.6900001,0,0,0,1,4,5,137,0,10-Jan-22,27/05/2022 02:10,114.4kg,1.6900001,107
+AB603,Male,Elective,142,95,alive,alive,no,no,82,1.6964,0,2,1,6,6,12,109,0,05-Dec-21,24/03/2022 10:44,82kg,1.6964,95
+AB994,Female,Elective,113,91,died,alive,no, yes,43,1.7,6,3,10,1,27,28,28,1,27-Aug-21,24/09/2021 09:46,43kg,1.7,91
+AB825,Female,Elective,109,90,alive,alive,no, yes,46,1.7,0,0,2,2,19,21,110,0,08-Aug-22,26/11/2022 01:57,46kg,1.7,90
+AB095,Female,Elective,128,103,alive,alive,no,no,53,1.7,0,0,0,1,6,7,103,0,20-Jul-22,31/10/2022 22:59,53kg,1.7,103
+AB800,Female,Elective,139,88,alive,alive,NA,no,61.599998,1.7,0,0,0,1,5,6,116,1,05-Jan-22,01/05/2022 10:40,61.599998kg,1.7,88
+AB101,Male,Elective,136,107,alive,alive,no, yes,64,1.7,0,0,2,2,9,11,111,1,06-Feb-22,28/05/2022 00:22,64kg,1.7,107
+AB938,Female,Elective,154,NA,died,alive,NA, yes,65,1.7,4,1,0,1,0,1,1,0,19-Nov-21,20/11/2021 12:49,65kg,1.7,NA
+AB371,Male,Urgent,80,93,alive,alive,no,no,67,1.7,3,2,3,8,8,16,147,0,25-Sep-22,19/02/2023 11:55,67kg,1.7,93
+AB524,Female,Emergency,79,90,died,alive,no, yes,67,1.7,9,4,12,1,4,5,5,1,25-Mar-23,30/03/2023 02:07,67kg,1.7,90
+AB929,Male,Elective,145,91,alive,alive,no,no,67.400002,1.7,0,0,0,1,3,4,126,0,08-Apr-22,12/08/2022 18:33,67.400002kg,1.7,91
+AB531,Male,Elective,158,92,alive,alive,no, yes,69,1.7,3,0,0,1,7,8,132,0,18-Jul-21,27/11/2021 18:16,69kg,1.7,92
+AB905,Male,Elective,143,108,alive,alive,no,no,69.900002,1.7,0,0,0,3,5,8,88,0,03-Dec-21,01/03/2022 07:02,69.900002kg,1.7,108
+AB041,Male,Elective,138,93,alive,alive,no,no,70,1.7,0,0,0,2,39,41,107,0,23-Nov-21,10/03/2022 03:37,70kg,1.7,93
+AB806,Male,Elective,148,92,alive,alive,no, yes,71.699997,1.7,0,0,0,1,5,6,97,0,02-Apr-21,08/07/2021 13:49,71.699997kg,1.7,92
+AB457,Male,Elective,144,113,alive,alive,no,no,71.900002,1.7,0,0,0,2,3,5,127,0,10-Nov-21,17/03/2022 19:07,71.900002kg,1.7,113
+AB174,Male,Elective,106,81,alive,alive,no,no,72,1.7,0,0,2,1,7,8,122,0,28-Aug-21,28/12/2021 08:06,72kg,1.7,81
+AB413,Male,Urgent,141,85,alive,alive,no, yes,72,1.7,0,0,1,2,5,7,125,0,03-Aug-21,06/12/2021 00:14,72kg,1.7,85
+AB977,Male,Elective,150,96,alive,alive,no,no,73,1.7,0,0,0,1,5,6,107,0,27-Oct-22,11/02/2023 11:29,73kg,1.7,96
+AB017,Male,Elective,136,122,alive,alive,no, yes,74,1.7,0,0,0,1,5,6,100,0,20-Apr-22,29/07/2022 23:33,74kg,1.7,122
+AB123,Male,Elective,110,81,alive,alive,no, yes,74,1.7,0,0,0,2,18,20,104,0,08-Aug-21,20/11/2021 12:36,74kg,1.7,81
+AB563,Male,Urgent,102,81,alive,alive,no,no,74.5,1.7,0,0,8,1,8,9,154,0,28-Apr-21,29/09/2021 02:43,74.5kg,1.7,81
+AB529,Male,Elective,154,91,alive,alive,no,no,76,1.7,0,0,0,1,5,6,142,1,04-Jul-21,23/11/2021 05:40,76kg,1.7,91
+AB566,Male,Urgent,137,99,alive,alive,no,no,76.699997,1.7,0,4,0,9,5,14,140,0,13-Sep-22,31/01/2023 08:43,76.699997kg,1.7,99
+AB261,Male,Elective,142,115,alive,alive,no, yes,78,1.7,0,0,0,1,4,5,109,0,12-Feb-22,01/06/2022 10:34,78kg,1.7,115
+AB780,Female,Urgent,108,104,alive,alive,no, yes,78,1.7,0,1,1,16,7,23,143,1,26-Jun-21,16/11/2021 01:29,78kg,1.7,104
+AB606,Female,Elective,112,86,alive,alive,no, yes,79,1.7,0,0,1,12,8,20,131,0,07-Nov-22,18/03/2023 14:54,79kg,1.7,86
+AB897,Male,Elective,152,117,alive,alive,NA, yes,80.5,1.7,0,0,0,1,8,9,157,0,04-Mar-22,08/08/2022 05:46,80.5kg,1.7,117
+AB249,Male,Urgent,138,99,alive,alive,no, yes,81,1.7,0,0,0,9,7,16,95,0,21-Jun-21,24/09/2021 15:51,81kg,1.7,99
+AB595,Male,Elective,158,104,alive,alive,no,no,82,1.7,0,0,0,2,33,35,111,0,22-Nov-22,13/03/2023 15:22,82kg,1.7,104
+AB170,Male,Elective,140,100,alive,alive,no, yes,82.199997,1.7,0,0,0,1,8,9,113,0,23-Jan-22,16/05/2022 10:15,82.2,1.7,100
+AB376,Female,Elective,123,93,alive,alive,no, yes,84,1.7,2,1,2,1,12,13,127,0,16-Mar-22,21/07/2022 10:59,84kg,1.7,93
+AB901,Female,Elective,128,98,alive,alive,no, yes,85,1.7,0,0,0,2,7,9,95,0,05-Sep-22,09/12/2022 23:14,85kg,1.7,98
+AB688,Male,Elective,93,97,alive,alive,no, yes,90,1.7,0,0,1,3,6,9,80,0,30-Mar-21,18/06/2021 02:02,90kg,1.7,97
+AB795,Female,Elective,135,88,alive,alive, yes, yes,92.099998,1.7,0,2,4,3,6,9,135,0,03-Nov-22,18/03/2023 07:44,92.099998kg,1.7,88
+AB297,Male,Elective,131,90,alive,alive,no, yes,93.199997,1.7,0,0,0,1,5,6,110,0,22-May-22,09/09/2022 01:37,93.199997kg,1.7,90
+AB1017,Male,Elective,155,111,alive,alive,no, yes,96,1.7,0,0,1,1,4,5,132,0,02-Aug-21,12/12/2021 06:36,96kg,1.7,111
+AB153,Female,Elective,131,102,alive,alive,no,no,100,1.7,6,0,0,3,7,10,107,0,24-Aug-22,09/12/2022 19:40,100kg,1.7,102
+AB879,Male,Elective,154,115,alive,alive,no, yes,106,1.7,0,0,0,1,4,5,145,1,09-Nov-20,03/04/2021 07:47,106kg,1.7,115
+AB594,Female,Elective,154,98,alive,alive, yes,no,55,1.71,4,16,20,3,100,103,101,0,05-Sep-22,15/12/2022 09:48,55kg,1.71,98
+AB833,Female,Elective,141,87,alive,alive,no,no,55,1.71,0,2,1,1,12,13,116,0,11-Mar-22,05/07/2022 01:24,55kg,1.71,87
+AB146,Female,Elective,154,99,alive,alive, yes,no,56,1.71,3,13,15,3,101,104,109,0,28-Sep-22,15/01/2023 08:56,56kg,1.71,99
+AB055,Female,Elective,115,115,alive,alive,no,no,60.200001,1.71,0,0,1,1,4,5,119,0,27-Jan-21,26/05/2021 09:19,60.2 kg,1.71,115
+AB120,Female,Elective,122,92,alive,alive,no,no,64,1.71,0,0,3,1,11,12,96,0,04-Jan-23,10/04/2023 05:15,64kg,1.71,92
+AB497,Male,Elective,138,81,died,alive,no, yes,65,1.71,7,2,5,1,2,3,3,1,02-May-22,05/05/2022 15:27,65kg,1.71,81
+AB874,Female,Elective,127,104,alive,alive,no,no,65,1.71,0,0,0,1,5,6,23,0,05-May-22,28/05/2022 03:26,65kg,1.71,104
+AB352,Female,Elective,141,87,alive,alive,NA,no,65.599998,1.71,0,0,0,1,9,10,128,0,27-Aug-21,02/01/2022 16:50,65.599998kg,1.71,87
+AB481,Male,Elective,147,90,alive,alive,no,no,67.400002,1.71,0,0,0,1,4,5,137,0,27-Oct-22,13/03/2023 10:41,67.400002kg,1.71,90
+AB659,Female,Elective,129,86,alive,alive, yes,no,67.400002,1.71,4,0,4,2,5,7,114,1,02-Nov-21,24/02/2022 17:50,67.400002kg,1.71,86
+AB500,Male,Elective,140,101,alive,alive,no, yes,68,1.71,0,0,1,1,7,8,142,0,26-Oct-21,17/03/2022 09:24,68kg,1.71,101
+AB122,Male,Urgent,148,123,alive,alive,no,no,69,1.71,0,0,1,19,8,27,95,1,01-Oct-22,04/01/2023 01:33,69kg,1.71,123
+AB979,Male,Elective,157,91,alive,alive,no, yes,69,1.71,3,1,0,1,5,6,99,0,20-Feb-22,30/05/2022 19:24,69kg,1.71,91
+AB414,Male,Elective,144,100,alive,alive,no, yes,70,1.71,0,0,0,1,5,6,144,0,20-Nov-21,13/04/2022 23:49,70kg,1.71,100
+AB999,Female,Urgent,95,102,alive,alive, yes,no,71,1.71,4,2,8,20,15,35,124,0,26-Jul-21,27/11/2021 02:09,71kg,1.71,102
+AB1018,Male,Urgent,106,83,alive,alive,no,no,71.5,1.71,4,3,10,1,11,12,148,0,01-Jun-22,27/10/2022 22:32,71.5kg,1.71,83
+AB1021,Male,Urgent,139,98,alive,alive,no,no,71.699997,1.71,4,1,0,9,7,16,100,0,17-Jan-22,27/04/2022 14:09,71.699997kg,1.71,98
+AB952,Male,Urgent,86,94,alive,alive,no,no,72,1.71,0,0,4,23,12,35,145,0,05-Feb-22,30/06/2022 20:26,72kg,1.71,94
+AB386,Male,Urgent,117,94,alive,alive,no, yes,75,1.71,3,1,0,29,8,37,140,0,18-Dec-20,07/05/2021 22:01,75kg,1.71,94
+AB038,Male,Elective,136,92,alive,alive,no, yes,76.5,1.71,0,0,0,1,7,8,83,1,26-Dec-21,19/03/2022 19:24,76.5kg,1.71,92
+AB242,Male,Elective,134,85,alive,alive, yes,no,76.5,1.71,0,0,0,1,38,39,130,0,21-Aug-21,29/12/2021 08:31,76.5kg,1.71,85
+AB010,Male,Urgent,121,94,alive,alive,no, yes,77,1.71,0,0,0,20,50,70,101,0,16-Aug-22,25/11/2022 13:32,77kg,1.71,94
+AB332,Female,Urgent,108,104,alive,alive,no, yes,78,1.71,4,0,0,21,6,27,131,0,06-Jan-22,17/05/2022 19:01,78kg,1.71,104
+AB665,Male,Elective,134,92,alive,alive,no, yes,78,1.71,0,0,0,1,10,11,123,0,19-May-22,19/09/2022 08:11,78kg,1.71,92
+AB509,Male,Elective,143,93,alive,alive,no,no,80,1.71,0,0,0,1,7,8,136,0,30-Jul-21,13/12/2021 22:45,80kg,1.71,93
+AB574,Female,Elective,126,115,alive,alive,no, yes,80,1.71,0,0,2,1,10,11,120,0,21-Jun-21,19/10/2021 17:28,80kg,1.71,115
+AB585,Male,Elective,152,93,alive,alive,no, yes,80,1.71,5,2,2,3,9,12,147,0,07-Oct-21,03/03/2022 13:23,80kg,1.71,93
+AB356,Male,Elective,113,87,alive,alive,no, yes,81,1.71,0,0,0,2,6,8,126,0,17-Jun-22,21/10/2022 09:19,81kg,1.71,87
+AB937,Female,Urgent,139,92,alive,alive,no, yes,81.699997,1.71,5,0,2,10,9,19,35,0,22-Oct-22,26/11/2022 15:14,81.699997kg,1.71,92
+AB137,Male,Elective,154,93,alive,alive,no, yes,82,1.71,6,1,0,1,8,9,118,0,19-Jul-22,14/11/2022 18:11,82kg,1.71,93
+AB283,Male,Emergency,131,73,alive,alive, yes, yes,82,1.71,10,3,12,1,25,26,82,0,03-Oct-21,24/12/2021 08:18,82kg,1.71,73
+AB274,Male,Emergency,91,74,alive,alive,no, yes,82.400002,1.71,0,0,3,0,9,9,143,0,05-Jun-22,26/10/2022 20:41,82.400002kg,1.71,74
+AB114,Female,Elective,131,114,alive,alive,no, yes,84,1.71,0,0,3,1,10,11,104,0,25-Jul-22,06/11/2022 06:01,84kg,1.71,114
+AB608,Male,Elective,117,94,alive,alive,no,no,84.199997,1.71,5,2,3,3,16,19,107,0,02-Jul-22,17/10/2022 14:59,84.199997kg,1.71,94
+AB453,Female,Elective,131,98,alive,alive,no, yes,85,1.71,0,0,0,2,7,9,135,0,08-May-22,20/09/2022 15:43,85kg,1.71,98
+AB489,Female,Urgent,139,95,alive,alive,no, yes,85.699997,1.71,5,1,3,10,7,17,68,0,22-Apr-22,29/06/2022 05:00,85.699997kg,1.71,95
+AB160,Male,Elective,115,92,alive,alive,no,no,87.199997,1.71,6,1,2,3,12,15,113,0,17-Aug-22,08/12/2022 19:58,87.2,1.71,92
+AB791,Male,Elective,140,100,alive,alive, yes, yes,87.800003,1.71,0,0,0,1,36,37,145,0,29-Sep-22,21/02/2023 17:19,87.800003kg,1.71,100
+AB257,Female,Elective,117,88,alive,alive,no, yes,92.400002,1.71,0,0,0,1,23,24,45,0,07-Sep-21,22/10/2021 07:29,92.400002kg,1.71,88
+AB260,Male,Urgent,153,97,alive,alive,no,no,94,1.71,9,2,1,1,8,9,129,0,19-May-21,25/09/2021 21:12,94kg,1.71,97
+AB410,Male,Elective,136,121,alive,alive,no, yes,94,1.71,0,0,3,11,7,18,144,0,28-Dec-21,21/05/2022 01:50,94kg,1.71,121
+AB741,Male,Elective,143,96,alive,alive,no, yes,95,1.71,0,0,0,1,10,11,140,0,23-Aug-22,10/01/2023 22:33,95kg,1.71,96
+AB858,Male,Elective,139,120,alive,alive,no, yes,95,1.71,0,0,0,9,10,19,142,0,15-Nov-21,06/04/2022 08:00,95kg,1.71,120
+AB602,Male,Elective,146,123,alive,alive,no,no,97,1.71,0,0,0,1,9,10,144,0,13-Jun-21,04/11/2021 12:18,97kg,1.71,123
+AB392,Female,Elective,185,110,died,alive,no, yes,99,1.71,0,2,7,1,5,6,6,0,21-Oct-22,27/10/2022 06:44,99kg,1.71,110
+AB949,Male,Elective,166,124,alive,alive,no,no,128,1.71,0,0,0,1,6,7,107,0,18-Oct-21,02/02/2022 03:07,128kg,1.71,124
+AB490,Female,Elective,152,NA,died,alive,NA, yes,62,1.72,4,1,2,1,1,2,1,1,21-Sep-22,22/09/2022 14:41,62kg,1.72,NA
+AB527,Male,Elective,135,94,alive,alive,no,no,62.400002,1.72,0,0,0,1,6,7,147,0,08-Apr-22,02/09/2022 17:17,62.400002kg,1.72,94
+AB271,Male,Elective,118,107,alive,alive,no,no,63,1.72,0,0,0,1,7,8,139,0,26-Dec-21,14/05/2022 16:16,63kg,1.72,107
+AB727,Female,Elective,139,89,alive,alive, yes,no,64,1.72,0,0,2,2,11,13,143,0,22-Dec-21,14/05/2022 12:50,64kg,1.72,89
+AB426,Female,Elective,129,106,alive,alive,no,no,66,1.72,0,0,1,1,7,8,50,1,27-Mar-22,16/05/2022 21:03,66kg,1.72,106
+AB551,Female,Urgent,95,102,alive,alive, yes,no,66,1.72,4,3,8,14,11,25,150,0,21-Apr-22,18/09/2022 14:49,66kg,1.72,102
+AB719,Male,Elective,117,104,alive,alive,no,no,66,1.72,0,0,0,2,9,11,136,0,11-Jul-22,24/11/2022 21:33,66kg,1.72,104
+AB975,Male,Elective,133,96,alive,alive,no,no,66.400002,1.72,0,0,0,1,7,8,140,1,26-Jan-22,15/06/2022 07:47,66.400002kg,1.72,96
+AB878,Female,Elective,155,98,alive,alive, yes,no,67,1.72,4,1,5,1,12,13,132,0,02-Sep-22,12/01/2023 14:21,67kg,1.72,98
+AB628,Female,Emergency,128,96,alive,alive,no,no,69,1.72,8,4,3,1,6,7,87,1,11-May-22,06/08/2022 05:27,69kg,1.72,96
+AB812,Male,Elective,123,73,alive,alive,no,no,69.300003,1.72,0,0,0,1,5,6,119,0,04-Dec-22,02/04/2023 20:44,69.300003kg,1.72,73
+AB325,Female,Elective,138,100,alive,alive,no, yes,71.400002,1.72,0,0,0,1,4,5,135,0,20-Oct-21,04/03/2022 08:45,71.400002kg,1.72,100
+AB640,Male,Elective,154,90,alive,alive,no, yes,73.5,1.72,0,0,0,1,5,6,90,1,10-Feb-22,11/05/2022 14:26,73.5kg,1.72,90
+AB026,Male,Elective,136,111,alive,alive,no,no,75,1.72,0,0,0,1,4,5,81,0,06-Jan-21,28/03/2021 10:37,75kg,1.72,111
+AB173,Male,Urgent,126,92,alive,alive,no, yes,75,1.72,0,0,1,9,6,15,115,0,24-Jan-22,19/05/2022 09:27,75kg,1.72,92
+AB556,Male,Urgent,141,108,alive,alive,no, yes,75,1.72,0,0,0,9,8,17,139,0,21-Jul-22,07/12/2022 01:24,75kg,1.72,108
+AB455,Male,Elective,113,99,alive,alive,no, yes,76,1.72,0,0,3,1,44,45,125,0,16-Feb-22,21/06/2022 02:30,76kg,1.72,99
+AB1011,Male,Urgent,100,80,alive,alive,no,no,76.5,1.72,0,1,6,1,12,13,119,0,18-Jul-22,14/11/2022 16:33,76.5kg,1.72,80
+AB851,Male,Elective,110,76,alive,alive,no,no,77,1.72,10,1,11,15,25,40,110,0,28-Apr-22,16/08/2022 08:35,77kg,1.72,76
+AB1019,Male,Urgent,160,93,alive,alive,no,no,78.800003,1.72,0,1,1,7,7,14,118,0,06-Sep-22,02/01/2023 22:30,78.800003kg,1.72,93
+AB697,Male,Urgent,137,97,alive,alive,no, yes,79,1.72,0,0,0,10,5,15,111,0,31-Jan-22,22/05/2022 15:40,79kg,1.72,97
+AB827,Male,Elective,136,95,alive,alive,no,no,79.5,1.72,5,0,2,2,8,10,102,0,30-Sep-21,10/01/2022 18:47,79.5kg,1.72,95
+AB203,Female,Elective,111,97,alive,alive,no, yes,80,1.72,0,0,2,1,7,8,104,0,22-Oct-22,03/02/2023 12:36,80kg,1.72,97
+AB217,Male,Elective,133,92,alive,alive,no, yes,82,1.72,0,0,1,1,10,11,119,0,06-Oct-21,02/02/2022 06:31,82kg,1.72,92
+AB618,Male,Elective,141,100,alive,alive,no, yes,82.199997,1.72,0,0,0,1,6,7,114,0,22-Mar-22,14/07/2022 17:13,82.199997kg,1.72,100
+AB824,Female,Elective,122,96,alive,alive,no, yes,86,1.72,3,1,1,2,11,13,140,1,25-Feb-22,15/07/2022 16:26,86kg,1.72,96
+AB108,Male,Elective,138,91,alive,alive,no, yes,87,1.72,3,1,0,1,4,5,116,0,29-Jul-22,22/11/2022 19:09,87kg,1.72,91
+AB708,Male,Urgent,152,99,alive,alive,no,no,94,1.72,8,4,0,1,5,6,113,0,07-Feb-22,31/05/2022 13:36,94kg,1.72,99
+AB599,Male,Elective,156,113,alive,alive,no,no,96,1.72,0,0,0,1,5,6,99,0,31-Dec-21,09/04/2022 05:43,96kg,1.72,113
+AB128,Male,Elective,141,82,alive,alive,no,no,105,1.72,7,1,1,1,15,16,109,0,08-Dec-21,27/03/2022 00:27,105kg,1.72,82
+AB758,Male,Elective,158,116,alive,alive,no,no,116,1.72,0,0,0,1,4,5,93,0,07-Sep-21,09/12/2021 00:02,116kg,1.72,116
+AB732,Female,Elective,131,90,alive,alive,no,no,59.200001,1.73,0,0,3,1,3,4,114,0,04-Jan-22,28/04/2022 19:50,59.200001kg,1.73,90
+AB279,Female,Elective,139,92,alive,alive, yes,no,64,1.73,0,0,4,2,11,13,117,0,09-Oct-21,03/02/2022 00:19,64kg,1.73,92
+AB557,Male,Elective,164,98,alive,alive,no,no,64,1.73,0,0,0,1,4,5,139,0,21-May-22,07/10/2022 11:20,64kg,1.73,98
+AB430,Female,Elective,156,97,alive,alive, yes,no,69,1.73,3,2,4,1,12,13,148,0,11-Oct-20,08/03/2021 11:09,69kg,1.73,97
+AB094,Male,Urgent,110,86,alive,alive,no, yes,72,1.73,0,0,0,10,11,21,95,0,19-Nov-22,22/02/2023 17:32,72kg,1.73,86
+AB698,Female,Emergency,105,115,alive,alive, yes, yes,73,1.73,4,5,9,1,20,21,119,0,09-Nov-20,08/03/2021 21:05,73kg,1.73,115
+AB1014,Male,Urgent,136,100,alive,alive,no,no,74.699997,1.73,0,1,0,6,6,12,131,0,22-Jan-21,02/06/2021 22:43,74.699997kg,1.73,100
+AB801,Female,Elective,91,94,alive,alive,no,no,76,1.73,0,0,2,0,6,6,125,0,04-Sep-21,07/01/2022 20:38,76kg,1.73,94
+AB019,Male,Elective,142,87,alive,alive,no,no,77.199997,1.73,3,1,2,1,5,6,90,0,26-Dec-21,26/03/2022 11:51,77.2KG,1.73,87
+AB564,Male,Urgent,160,91,alive,alive,no,no,77.800003,1.73,0,2,0,4,7,11,136,0,14-Oct-22,27/02/2023 08:18,77.800003kg,1.73,91
+AB957,Male,Elective,141,92,alive,alive,no,no,78,1.73,0,0,0,1,7,8,96,0,23-Dec-22,29/03/2023 08:04,78kg,1.73,92
+AB449,Male,Elective,150,117,alive,alive,NA, yes,78.5,1.73,3,0,0,2,7,9,166,0,08-Jun-22,21/11/2022 23:32,78.5kg,1.73,117
+AB1012,Male,Urgent,159,91,alive,alive,no,no,79.800003,1.73,0,0,0,5,7,12,112,0,01-Oct-22,21/01/2023 12:28,79.800003kg,1.73,91
+AB403,Male,Elective,113,77,alive,alive,no,no,80,1.73,8,2,7,11,31,42,138,0,14-Nov-21,01/04/2022 03:37,80kg,1.73,77
+AB646,Male,Elective,138,93,alive,alive,no, yes,80,1.73,0,0,3,1,20,21,43,0,19-Oct-22,01/12/2022 20:11,80kg,1.73,93
+AB080,Male,Emergency,97,101,alive,alive, yes, yes,81,1.73,27,6,29,10,70,80,94,0,24-Sep-22,27/12/2022 00:52,81kg,1.73,101
+AB779,Male,Elective,153,95,alive,alive,no, yes,82,1.73,0,0,0,0,5,5,99,0,12-Jul-22,19/10/2022 18:13,82kg,1.73,95
+AB880,Male,Elective,133,104,alive,alive,no, yes,82,1.73,0,0,0,2,3,5,133,0,15-Sep-22,26/01/2023 22:49,82kg,1.73,104
+AB033,Male,Elective,135,105,alive,alive,no, yes,83.400002,1.73,0,0,0,1,13,14,42,0,07-Nov-22,19/12/2022 22:35,83.4 kg,1.73,105
+AB432,Male,Elective,130,102,alive,alive,no, yes,85,1.73,0,0,0,1,3,4,146,1,28-Sep-21,21/02/2022 08:26,85kg,1.73,102
+AB067,Male,Urgent,148,68,alive,alive,no, yes,87,1.73,11,2,2,1,3,4,100,0,27-Sep-22,05/01/2023 03:28,87kg,1.73,68
+AB222,Male,Urgent,96,83,alive,alive, yes,no,91,1.73,11,2,12,2,12,14,121,0,17-May-22,15/09/2022 05:42,91kg,1.73,83
+AB1022,Male,Elective,142,108,alive,alive,no, yes,91,1.73,6,1,3,2,69,71,111,0,16-May-21,04/09/2021 19:57,91kg,1.73,108
+AB623,Male,Urgent,114,95,alive,alive,no, yes,92.800003,1.73,0,0,4,1,8,9,107,1,18-Mar-21,03/07/2021 09:24,92.800003kg,1.73,95
+AB293,Male,Elective,147,97,alive,alive,no, yes,95,1.73,0,0,0,2,10,12,137,0,15-Nov-20,01/04/2021 00:41,95kg,1.73,97
+AB932,Male,Urgent,84,83,alive,alive, yes, yes,95,1.73,5,2,10,11,24,35,117,0,14-Jun-22,09/10/2022 22:24,95kg,1.73,83
+AB813,Male,Elective,134,95,alive,alive,no, yes,98,1.73,0,0,0,1,6,7,146,0,09-Jun-22,02/11/2022 18:58,98kg,1.73,95
+AB501,Male,Elective,164,123,alive,alive,no,no,127,1.73,0,0,0,1,6,7,146,0,01-Jan-22,27/05/2022 00:07,127kg,1.73,123
+AB286,Female,Urgent,103,84,alive,alive,no, yes,134,1.73,0,0,0,2,8,10,122,0,23-May-22,22/09/2022 13:44,134kg,1.73,84
+AB069,Male,Urgent,154,105,alive,alive,no,no,75,1.7318,5,1,0,8,8,16,100,0,13-Feb-22,24/05/2022 06:53,75kg,1.7318,105
+AB450,Male,Emergency,154,84,alive,alive,no, yes,48,1.74,6,1,2,1,12,13,134,0,17-Mar-22,29/07/2022 16:17,48kg,1.74,84
+AB183,Male,Elective,151,80,alive,alive, yes,no,52,1.74,0,0,1,1,10,11,106,0,19-Feb-22,05/06/2022 15:41,52kg,1.74,80
+AB631,Male,Elective,151,82,alive,alive, yes,no,53,1.74,0,0,0,1,11,12,115,0,22-Dec-21,16/04/2022 13:08,53kg,1.74,82
+AB667,Male,Urgent,134,87,alive,alive,no, yes,56,1.74,7,3,7,2,5,7,109,0,08-Sep-22,26/12/2022 22:04,56kg,1.74,87
+AB284,Female,Elective,131,93,alive,alive,no,no,61.200001,1.74,0,0,2,2,4,6,112,0,31-Jan-22,23/05/2022 14:21,61.200001kg,1.74,93
+AB211,Female,Elective,131,84,alive,alive, yes,no,66.400002,1.74,3,0,6,2,6,8,123,0,31-Mar-22,01/08/2022 22:05,66.400002kg,1.74,84
+AB873,Male,Elective,116,114,alive,alive,no, yes,68,1.74,3,0,3,1,9,10,107,0,25-Dec-21,11/04/2022 08:30,68kg,1.74,114
+AB074,Female,Elective,143,89,alive,alive,no, yes,69.300003,1.74,0,0,2,5,11,16,101,0,24-May-22,02/09/2022 16:55,69.3,1.74,89
+AB548,Male,Elective,130,111,alive,alive,no, yes,70,1.74,0,0,2,6,8,14,146,0,21-Jun-21,14/11/2021 16:19,70kg,1.74,111
+AB389,Male,Elective,134,81,alive,alive,no,no,72,1.74,0,0,0,2,6,8,122,0,28-Oct-21,27/02/2022 07:55,72kg,1.74,81
+AB723,Male,Elective,122,NA,alive,alive,no, yes,72,1.74,0,0,0,2,11,13,123,0,18-Jan-22,21/05/2022 01:06,72kg,1.74,NA
+AB192,Male,Elective,155,90,alive,alive,no, yes,72.5,1.74,0,1,0,1,5,6,102,0,22-Jul-22,01/11/2022 08:33,72.5kg,1.74,90
+AB349,Male,Elective,132,93,alive,alive,no,no,73,1.74,5,0,0,5,8,13,120,0,25-Jun-21,23/10/2021 16:47,73kg,1.74,93
+AB357,Male,Elective,161,106,alive,alive,no, yes,74,1.74,0,0,0,1,7,8,127,0,24-Aug-22,29/12/2022 07:36,74kg,1.74,106
+AB707,Male,Urgent,115,112,alive,alive,no,no,76,1.74,0,0,1,34,8,42,80,0,28-Apr-22,17/07/2022 08:05,76kg,1.74,112
+AB777,Male,Elective,157,136,alive,alive,no,no,76,1.74,0,0,0,1,4,5,128,0,24-Jul-22,29/11/2022 17:07,76kg,1.74,136
+AB797,Male,Elective,131,97,alive,alive,no,no,76,1.74,4,0,1,5,8,13,132,0,16-Dec-21,27/04/2022 10:02,76kg,1.74,97
+AB458,Male,Urgent,112,86,alive,alive,no, yes,77,1.74,0,0,2,8,6,14,138,0,09-Nov-21,27/03/2022 10:01,77kg,1.74,86
+AB671,Male,Elective,141,117,alive,alive,no, yes,77.099998,1.74,0,0,0,1,2,3,127,0,23-Mar-22,28/07/2022 23:49,77.099998kg,1.74,117
+AB895,Male,Urgent,144,98,alive,alive,no,no,78,1.74,0,0,0,5,6,11,119,0,14-Jun-22,11/10/2022 05:53,78kg,1.74,98
+AB223,Male,Elective,140,121,alive,alive,no, yes,78.099998,1.74,0,0,0,1,5,6,109,0,05-Jul-21,22/10/2021 17:03,78.099998kg,1.74,121
+AB699,Male,Urgent,144,109,alive,alive,no, yes,79,1.74,0,0,0,3,5,8,57,0,24-Mar-22,20/05/2022 13:16,79kg,1.74,109
+AB906,Male,Urgent,112,88,alive,alive,no, yes,79,1.74,0,0,4,7,5,12,123,0,14-Feb-22,17/06/2022 15:56,79kg,1.74,88
+AB331,Male,Elective,157,93,alive,alive,no, yes,80,1.74,0,0,2,1,4,5,113,1,06-Jun-22,27/09/2022 17:14,80kg,1.74,93
+AB353,Female,Elective,92,97,alive,alive,no,no,80,1.74,0,0,1,0,4,4,139,0,22-Jul-21,08/12/2021 07:23,80kg,1.74,97
+AB804,Male,Elective,115,86,alive,alive,no, yes,80,1.74,0,0,3,2,7,9,111,0,04-Aug-21,23/11/2021 15:14,80kg,1.74,86
+AB072,Male,Elective,158,106,alive,alive, yes, yes,84,1.74,0,1,2,2,8,10,109,0,15-Sep-22,02/01/2023 17:04,84kg,1.74,106
+AB212,Male,Elective,115,103,alive,alive,no, yes,84,1.74,7,2,5,3,17,20,110,0,02-Apr-22,21/07/2022 20:46,84kg,1.74,103
+AB348,Male,Elective,140,109,alive,alive,no, yes,84,1.74,0,0,1,1,2,3,132,0,05-Apr-22,15/08/2022 02:15,84kg,1.74,109
+AB942,Male,Elective,148,93,alive,alive,no, yes,86,1.74,5,1,1,1,10,11,150,0,20-Nov-21,19/04/2022 03:39,86kg,1.74,93
+AB344,Male,Elective,154,116,alive,alive,no, yes,89.800003,1.74,0,0,0,1,5,6,88,0,15-Sep-21,12/12/2021 12:38,89.800003kg,1.74,116
+AB369,Male,Elective,159,117,alive,alive,no, yes,90,1.74,0,0,0,1,7,8,17,0,18-Jun-22,05/07/2022 13:25,90kg,1.74,117
+AB350,Male,Elective,142,111,alive,alive,no,no,91,1.74,0,0,0,3,5,8,132,0,12-May-22,20/09/2022 23:58,91kg,1.74,111
+AB567,Male,Elective,142,111,alive,alive,no, yes,92,1.74,10,2,6,2,65,67,157,0,12-Jan-22,18/06/2022 16:11,92kg,1.74,111
+AB151,Male,Elective,156,113,alive,alive,no,no,94,1.74,0,0,0,1,6,7,101,0,24-Dec-21,04/04/2022 16:47,94kg,1.74,113
+AB1015,Male,Elective,144,109,alive,alive,no, yes,94,1.74,0,2,3,2,69,71,152,0,14-Nov-21,15/04/2022 23:18,94kg,1.74,109
+AB328,Male,Urgent,132,99,alive,alive,no, yes,95,1.74,0,0,1,1,7,8,129,0,04-Oct-22,10/02/2023 11:41,95kg,1.74,99
+AB484,Male,Urgent,83,81,alive,alive, yes, yes,95,1.74,5,3,12,10,21,31,151,0,28-Dec-20,28/05/2021 04:11,95kg,1.74,81
+AB681,Male,Urgent,130,85,alive,alive,no, yes,98.800003,1.74,0,0,4,11,8,19,106,0,13-Sep-21,28/12/2021 08:25,98.800003kg,1.74,85
+AB241,Male,Urgent,138,105,alive,alive,no, yes,99,1.74,0,2,0,2,6,8,122,0,17-Oct-21,16/02/2022 02:42,99kg,1.74,105
+AB415,Male,Elective,135,93,alive,alive,no, yes,102,1.74,0,0,1,1,6,7,137,0,21-Aug-22,05/01/2023 03:39,102kg,1.74,93
+AB840,Female,Elective,185,110,died,alive,no, yes,102,1.74,5,1,9,1,4,5,6,1,06-Apr-23,12/04/2023 14:53,102kg,1.74,110
+AB133,Male,Elective,151,89,died,alive,no,no,103,1.74,7,1,6,1,70,71,78,1,08-May-21,25/07/2021 00:23,103kg,1.74,89
+AB499,Male,Urgent,140,94,alive,alive,no, yes,103.2,1.74,6,1,3,25,22,47,154,0,16-Dec-21,19/05/2022 15:59,103.2kg,1.74,94
+AB310,Male,Elective,157,117,alive,alive,no,no,114,1.74,0,0,0,1,4,5,115,0,21-Oct-22,13/02/2023 03:46,114kg,1.74,117
+AB134,Male,Elective,125,83,alive,alive,no, yes,135,1.74,0,0,2,2,69,71,107,1,12-Feb-22,30/05/2022 18:12,135kg,1.74,83
+AB236,male,Elective,132,118,alive,alive, yes,no,54.799999,1.75,3,2,4,1,5,6,123,0,17-Oct-22,17/02/2023 10:15,54.799999kg,1.75,118
+AB941,Male,Urgent,134,98,alive,alive, yes, yes,55,1.75,6,3,14,7,7,14,111,0,01-Mar-22,20/06/2022 02:11,55kg,1.75,98
+AB493,Male,Urgent,133,95,alive,alive, yes, yes,56,1.75,6,4,12,7,7,14,145,0,27-Feb-21,22/07/2021 06:53,56kg,1.75,95
+AB117,Male,Urgent,135,93,alive,alive, yes, yes,67,1.75,7,6,12,1,8,9,105,0,15-Jan-22,30/04/2022 01:34,67kg,1.75,93
+AB162,Female,Urgent,103,82,alive,alive,no, yes,70,1.75,0,0,3,7,5,12,121,0,14-Dec-22,14/04/2023 02:56,70kg,1.75,82
+AB425,Male,Elective,115,113,alive,alive,no, yes,71,1.75,2,0,5,2,8,10,144,1,07-Jan-22,31/05/2022 01:29,71kg,1.75,113
+AB023,Male,Urgent,127,93,alive,alive,no,no,71.800003,1.75,9,2,3,4,2,6,95,0,12-Apr-22,16/07/2022 17:25,71.7 Kg,1.75,93
+AB250,Female,Emergency,108,112,alive,alive, yes, yes,72,1.75,3,2,7,1,22,23,129,0,20-Dec-21,28/04/2022 23:43,72kg,1.75,112
+AB037,Male,Elective,153,93,alive,alive,no, yes,73,1.75,0,0,0,1,5,6,121,0,20-Nov-22,21/03/2023 17:28,73kg,1.75,93
+AB275,Male,Elective,122,NA,alive,alive,no, yes,73,1.75,0,0,0,2,11,13,120,0,09-Mar-22,07/07/2022 05:52,73kg,1.75,NA
+AB447,Male,Urgent,145,97,alive,alive,no,no,73,1.75,0,0,1,4,6,10,138,0,27-May-21,12/10/2021 23:14,73kg,1.75,97
+AB996,Male,Elective,134,106,alive,alive,no, yes,73,1.75,0,0,2,5,7,12,131,0,16-Aug-22,25/12/2022 21:03,73kg,1.75,106
+AB773,Female,Elective,136,100,alive,alive,no, yes,73.400002,1.75,0,0,0,1,7,8,134,0,03-Sep-22,15/01/2023 01:57,73.400002kg,1.75,100
+AB621,Male,Urgent,126,92,alive,alive,no, yes,74,1.75,0,0,2,11,8,19,128,0,27-Jun-21,02/11/2021 12:41,74kg,1.75,92
+AB456,Male,Urgent,131,94,alive,alive,no, yes,74.800003,1.75,0,2,5,1,4,5,150,0,07-May-22,04/10/2022 01:01,74.800003kg,1.75,94
+AB436,Male,Urgent,128,86,alive,alive,no,no,76,1.75,0,0,0,7,6,13,145,0,07-Jun-22,30/10/2022 12:30,76kg,1.75,86
+AB479,Male,Elective,147,108,alive,alive,no,no,76,1.75,3,1,0,1,6,7,109,0,20-Apr-22,07/08/2022 01:46,76kg,1.75,108
+AB903,Male,Elective,113,98,alive,alive,no, yes,77,1.75,0,0,5,1,44,45,92,1,03-Nov-22,03/02/2023 09:08,77kg,1.75,98
+AB504,Male,Urgent,86,91,alive,alive,no,no,78,1.75,0,0,3,19,16,35,153,0,16-Jan-22,18/06/2022 08:34,78kg,1.75,91
+AB198,Male,Elective,139,91,alive,alive,no, yes,80,1.75,0,0,2,1,13,14,26,0,03-Oct-21,29/10/2021 08:29,80kg,1.75,91
+AB329,Male,Elective,158,132,alive,alive,no,no,80,1.75,0,0,0,1,4,5,127,0,09-May-22,13/09/2022 00:50,80kg,1.75,132
+AB330,Male,Elective,130,83,alive,alive,no, yes,80.099998,1.75,5,2,3,9,6,15,111,1,14-Dec-21,04/04/2022 14:14,80.099998kg,1.75,83
+AB306,Male,Elective,147,88,alive,alive,no,no,81,1.75,3,1,1,1,4,5,114,0,17-Jun-22,09/10/2022 03:21,81kg,1.75,88
+AB796,Male,Elective,143,112,alive,alive,no, yes,82,1.75,0,1,0,1,5,6,142,0,11-Oct-21,02/03/2022 19:06,82kg,1.75,112
+AB251,Male,Urgent,144,106,alive,alive,no, yes,83,1.75,0,0,0,2,5,7,42,0,26-Jun-22,07/08/2022 14:59,83kg,1.75,106
+AB856,Male,Elective,130,99,alive,alive,no, yes,84,1.75,0,0,0,1,6,7,144,0,03-Nov-21,27/03/2022 12:36,84kg,1.75,99
+AB230,Male,Elective,159,132,alive,alive,no, yes,85,1.75,0,0,0,1,7,8,137,0,10-Nov-21,27/03/2022 18:33,85kg,1.75,132
+AB036,Male,Urgent,143,109,alive,alive,no,no,87,1.75,0,0,0,6,8,14,94,0,12-Dec-22,16/03/2023 15:06,87kg,1.75,109
+AB660,Male,Elective,117,101,alive,alive,no, yes,87,1.75,5,1,7,3,18,21,112,1,30-Sep-22,20/01/2023 00:34,87kg,1.75,101
+AB753,Male,Urgent,134,110,alive,alive,no,no,87,1.75,0,0,0,2,8,10,89,1,06-Mar-22,03/06/2022 19:46,87kg,1.75,110
+AB494,Male,Elective,151,93,alive,alive,no, yes,88,1.75,5,0,0,2,9,11,151,0,22-Sep-22,20/02/2023 15:20,88kg,1.75,93
+AB617,Male,Elective,170,120,alive,alive,no, yes,88,1.75,0,2,0,1,5,6,138,0,31-May-22,16/10/2022 21:24,88kg,1.75,120
+AB600,Male,Elective,139,103,alive,alive,no, yes,91,1.75,0,0,0,2,6,8,94,0,24-Jan-22,28/04/2022 11:12,91kg,1.75,103
+AB011,Male,Elective,146,102,alive,alive,no, yes,92,1.75,0,0,0,1,5,6,98,0,31-Dec-22,08/04/2023 22:29,92kg,1.75,102
+AB683,Male,Elective,122,90,alive,alive,no, yes,92,1.75,0,0,0,1,9,10,149,0,31-Dec-21,29/05/2022 22:47,92kg,1.75,90
+AB233,Male,Urgent,131,84,alive,alive,no, yes,93.800003,1.75,0,0,1,13,10,23,108,0,05-Sep-22,22/12/2022 09:56,93.800003kg,1.75,84
+AB365,Male,Elective,133,97,alive,alive,no, yes,98,1.75,0,0,0,1,7,8,140,0,29-Oct-21,18/03/2022 15:44,98kg,1.75,97
+AB776,Male,Urgent,135,98,alive,alive,no, yes,98,1.75,0,0,0,1,6,7,140,0,08-May-22,25/09/2022 18:00,98kg,1.75,98
+AB863,Male,Elective,138,98,alive,alive,no, yes,102,1.75,0,0,1,1,7,8,142,0,05-Dec-21,26/04/2022 06:59,102kg,1.75,98
+AB593,Male,Elective,144,123,alive,alive,no, yes,112,1.75,0,0,0,1,7,8,135,0,15-Jun-21,28/10/2021 15:27,112kg,1.75,123
+AB345,Female,Emergency,90,87,alive,alive,no,NA,141,1.75,0,0,1,7,20,27,123,0,11-Jul-22,11/11/2022 15:59,141kg,1.75,87
+AB793,Female,Emergency,86,84,alive,alive,no,NA,145,1.75,0,0,2,9,25,34,115,0,07-May-22,30/08/2022 01:26,145kg,1.75,84
+AB898,Male,Emergency,152,86,alive,alive,no, yes,49,1.76,4,2,3,0,10,10,100,0,10-Aug-22,18/11/2022 07:04,49kg,1.76,86
+AB514,Female,Elective,146,81,alive,alive,no, yes,62,1.76,3,2,5,1,17,18,161,0,02-Jul-21,10/12/2021 00:54,62kg,1.76,81
+AB559,Male,Urgent,112,108,alive,alive,no,no,69,1.76,4,2,6,3,10,13,153,0,05-Mar-21,05/08/2021 05:09,69kg,1.76,108
+AB245,Male,Elective,122,114,alive,alive,no,no,72,1.76,0,0,0,2,9,11,107,0,04-Jan-21,21/04/2021 14:11,72kg,1.76,114
+AB373,Male,Urgent,151,92,alive,alive,no, yes,72,1.76,5,0,0,8,7,15,129,0,01-Jan-22,10/05/2022 04:03,72kg,1.76,92
+AB046,Male,Urgent,135,100,alive,alive,no,no,72.599998,1.76,0,0,0,2,7,9,104,0,12-Aug-21,24/11/2021 03:42,72.6 KG,1.76,100
+AB884,Male,Urgent,131,82,alive,alive,no,no,73,1.76,0,0,0,6,7,13,152,0,11-Mar-21,10/08/2021 04:30,73kg,1.76,82
+AB837,Male,Elective,133,80,alive,alive,no,no,74,1.76,0,0,2,1,6,7,93,0,19-Jul-22,20/10/2022 12:14,74kg,1.76,80
+AB771,Male,Elective,157,123,alive,alive,no,no,75,1.76,0,0,0,2,4,6,166,0,14-Mar-22,27/08/2022 08:02,75kg,1.76,123
+AB323,Male,Elective,158,124,alive,alive,no,no,76,1.76,0,0,0,1,5,6,144,0,12-Nov-21,05/04/2022 14:55,76kg,1.76,124
+AB805,Male,Elective,158,108,alive,alive,no, yes,76,1.76,0,0,0,1,4,5,102,1,09-Jun-21,19/09/2021 05:26,76kg,1.76,108
+AB1004,Male,Urgent,143,110,alive,alive,no, yes,77,1.76,0,0,0,6,5,11,129,0,05-Apr-22,12/08/2022 10:59,77kg,1.76,110
+AB025,Male,Elective,159,134,alive,alive,no, yes,78,1.76,0,0,0,1,5,6,99,0,29-Jun-22,06/10/2022 18:16,78kg,1.76,134
+AB778,Male,Elective,127,82,alive,alive,no, yes,79.099998,1.76,9,1,4,8,11,19,126,0,28-Jan-22,03/06/2022 11:50,79.099998kg,1.76,82
+AB709,Male,Elective,143,113,alive,alive,no, yes,82,1.76,0,0,0,1,5,6,88,0,27-May-22,23/08/2022 10:22,82kg,1.76,113
+AB988,Male,Emergency,121,95,alive,alive,no, yes,82,1.76,0,2,2,2,7,9,131,0,11-Sep-22,20/01/2023 11:23,82kg,1.76,95
+AB273,Male,Elective,135,99,alive,alive,no, yes,83,1.76,0,0,0,1,6,7,118,0,03-Nov-21,01/03/2022 06:22,83kg,1.76,99
+AB379,Male,Elective,140,94,alive,alive,no,no,83.5,1.76,6,0,1,2,9,11,113,0,10-Jun-21,01/10/2021 08:12,83.5kg,1.76,94
+AB678,Male,Elective,160,131,alive,alive,no, yes,84,1.76,0,0,0,1,5,6,152,0,30-May-21,29/10/2021 16:52,84kg,1.76,131
+AB287,Male,Elective,140,86,alive,alive,no, yes,86,1.76,0,0,0,1,2,3,135,0,07-Nov-21,22/03/2022 21:34,86kg,1.76,86
+AB692,Male,Elective,141,89,alive,alive, yes,no,86,1.76,5,0,4,1,4,5,108,0,13-Jan-22,01/05/2022 01:23,86kg,1.76,89
+AB104,Male,Elective,144,101,alive,alive,no, yes,90,1.76,0,0,1,3,5,8,102,1,30-Nov-22,12/03/2023 10:04,90kg,1.76,101
+AB127,Male,Elective,153,108,alive,alive,no, yes,90,1.76,0,0,0,1,5,6,107,0,25-Nov-22,12/03/2023 10:32,90kg,1.76,108
+AB262,Male,Elective,149,103,alive,alive,no, yes,90.400002,1.76,0,0,0,1,15,16,107,0,15-Aug-22,30/11/2022 00:54,90.400002kg,1.76,103
+AB744,Male,Elective,156,101,alive,alive,no,no,91,1.76,0,0,0,1,11,12,103,0,23-Aug-22,04/12/2022 10:47,91kg,1.76,101
+AB798,Male,Elective,141,112,alive,alive,no,no,93,1.76,0,0,0,3,3,6,127,1,03-Mar-22,08/07/2022 02:54,93kg,1.76,112
+AB1020,Male,Elective,137,112,alive,alive,no, yes,95,1.76,0,0,0,0,4,4,96,0,06-Jan-23,12/04/2023 13:50,95kg,1.76,112
+AB169,Male,Elective,168,119,alive,alive,no, yes,97,1.76,0,0,0,1,5,6,135,0,23-Jul-22,05/12/2022 02:37,97kg,1.76,119
+AB762,Male,Emergency,131,104,alive,alive,no,no,98,1.76,0,2,1,0,14,14,136,0,09-Jul-22,22/11/2022 23:23,98kg,1.76,104
+AB003,Male,Elective,115,91,alive,alive,no, yes,103,1.76,0,0,2,2,7,9,101,0,12-Jul-21,21/10/2021 06:21,103kg,176mm,91
+AB204,Female,Elective,117,89,alive,alive,no,no,104,1.76,0,0,0,2,6,8,110,1,17-Nov-21,07/03/2022 10:25,104kg,1.76,89
+AB215,Male,Elective,139,113,alive,alive,no, yes,106,1.76,0,0,0,1,5,6,139,0,04-Dec-21,22/04/2022 09:32,106kg,1.76,113
+AB663,Male,Elective,139,113,alive,alive,no, yes,108,1.76,0,0,0,1,8,9,159,0,08-Nov-21,16/04/2022 21:39,108kg,1.76,113
+AB483,Male,Elective,127,100,alive,alive,no, yes,114,1.76,0,0,2,1,12,13,144,0,12-Feb-21,06/07/2021 04:02,114kg,1.76,100
+AB931,Male,Elective,130,100,alive,alive,no, yes,115,1.76,0,0,1,1,11,12,99,0,24-Jan-22,03/05/2022 12:35,115kg,1.76,100
+AB031,Male,Elective,161,116,alive,alive,no, yes,117,1.76,0,0,0,12,8,20,89,1,11-Apr-22,09/07/2022 08:54,117kg,1.76,116
+AB694,Female,Urgent,90,103,alive,alive,no, yes,125,1.76,12,6,27,6,12,18,138,0,11-Jul-22,26/11/2022 08:19,125kg,1.76,103
+AB582,Male,Elective,123,85,alive,alive,no, yes,137,1.76,0,0,1,2,74,76,123,0,03-Nov-21,06/03/2022 01:28,137kg,1.76,85
+AB194,Female,Elective,149,115,alive,alive,no, yes,55,1.77,0,0,0,3,4,7,93,0,21-Jan-22,24/04/2022 05:26,55kg,1.77,115
+AB219,Male,Urgent,134,89,alive,alive,no, yes,59,1.77,5,1,6,2,6,8,96,0,20-Jun-21,24/09/2021 20:59,59kg,1.77,89
+AB119,Female,Elective,120,93,alive,alive,no, yes,66,1.77,0,0,2,1,9,10,87,0,30-Sep-22,26/12/2022 20:54,66kg,1.77,93
+AB1007,Male,Urgent,109,105,alive,alive,no,no,68,1.77,7,2,6,3,12,15,125,1,14-Jun-22,17/10/2022 23:00,68kg,1.77,105
+AB487,Male,Urgent,125,88,alive,alive, yes, yes,70,1.77,8,3,7,2,26,28,134,0,23-Nov-21,06/04/2022 14:44,70kg,1.77,88
+AB588,Male,Elective,148,108,alive,alive,no,no,70,1.77,0,1,0,1,5,6,121,0,11-Oct-22,09/02/2023 23:38,70kg,1.77,108
+AB259,Male,Urgent,114,112,alive,alive,no,no,71,1.77,0,0,3,31,8,39,84,0,29-Jun-22,21/09/2022 06:36,71kg,1.77,112
+AB610,Female,Urgent,104,80,alive,alive,no, yes,72,1.77,0,0,2,8,7,15,141,0,29-Aug-22,17/01/2023 01:32,72kg,1.77,80
+AB363,Male,Elective,143,114,alive,alive,no, yes,73.5,1.77,6,1,0,1,5,6,137,0,02-May-21,16/09/2021 22:10,73.5kg,1.77,114
+AB675,Male,Emergency,120,84,alive,alive, yes,NA,74,1.77,12,7,14,0,12,12,138,1,02-Sep-22,18/01/2023 09:28,74kg,1.77,84
+AB789,Male,Emergency,114,70,died,alive,no,no,74,1.77,0,2,6,2,8,10,8,1,22-Dec-21,30/12/2021 07:28,74kg,1.77,70
+AB666,Male,Emergency,116,80,alive,alive,no, yes,74.5,1.77,0,0,5,0,15,15,132,0,10-Apr-22,20/08/2022 07:50,74.5kg,1.77,80
+AB476,Male,Urgent,126,88,alive,alive,no,no,76,1.77,0,0,3,5,4,9,141,0,24-Oct-21,14/03/2022 10:31,76kg,1.77,88
+AB904,Male,Urgent,129,92,alive,alive,no, yes,79.800003,1.77,0,1,4,2,6,8,106,1,19-Feb-22,05/06/2022 23:55,79.800003kg,1.77,92
+AB859,Male,Elective,127,103,alive,alive,no, yes,80,1.77,0,0,1,1,19,20,144,0,29-Aug-21,20/01/2022 20:54,80kg,1.77,103
+AB182,Male,Emergency,135,90,alive,alive,no, yes,81,1.77,5,2,4,2,3,5,125,0,13-Nov-22,18/03/2023 07:35,81kg,1.77,90
+AB495,Male,Elective,130,95,alive,alive,no, yes,82,1.77,0,0,1,2,6,8,139,0,04-Feb-22,23/06/2022 01:15,82kg,1.77,95
+AB503,Male,Urgent,138,97,alive,alive,no, yes,82,1.77,0,0,0,1,13,14,53,0,11-Jun-22,03/08/2022 06:47,82kg,1.77,97
+AB672,Male,Elective,145,88,alive,alive,no, yes,82,1.77,0,0,0,1,7,8,135,0,29-Apr-22,11/09/2022 20:43,82kg,1.77,88
+AB754,Male,Elective,151,90,alive,alive,no,no,82,1.77,4,2,2,1,5,6,92,1,01-Jan-23,03/04/2023 04:30,82kg,1.77,90
+AB411,Male,Elective,126,102,alive,alive,no, yes,83,1.77,0,0,2,1,12,13,143,0,10-Apr-22,31/08/2022 08:44,83kg,1.77,102
+AB951,Male,Urgent,141,97,alive,alive,no, yes,83,1.77,0,0,0,1,18,19,24,0,22-Nov-22,16/12/2022 16:10,83kg,1.77,97
+AB630,Male,Emergency,134,88,alive,alive,no, yes,84,1.77,6,3,2,0,7,7,146,0,27-Jul-21,20/12/2021 14:29,84kg,1.77,88
+AB710,Male,Elective,148,106,alive,alive,no, yes,84.400002,1.77,0,0,0,1,15,16,96,0,22-Jun-21,26/09/2021 06:44,84.400002kg,1.77,106
+AB092,Male,Elective,139,98,alive,alive,no, yes,87,1.77,0,0,0,2,25,27,111,0,19-Sep-21,08/01/2022 10:39,87kg,1.77,98
+AB305,Male,Urgent,138,114,alive,alive,no,no,89,1.77,0,0,0,2,7,9,111,0,04-Apr-21,24/07/2021 19:01,89kg,1.77,114
+AB152,Male,Elective,139,103,alive,alive,no, yes,90,1.77,0,0,0,2,6,8,98,1,07-Feb-22,16/05/2022 14:59,90kg,1.77,103
+AB817,Male,Elective,160,118,alive,alive,no, yes,90,1.77,0,0,0,1,8,9,4,0,24-Sep-22,28/09/2022 02:11,90kg,1.77,118
+AB1013,Male,Elective,137,111,alive,alive,no, yes,90,1.77,0,0,0,0,3,3,143,0,12/21/2021,13/05/2022 15:52,90kg,1.77,111
+AB701,Female,Elective,120,105,alive,alive,no, yes,93.900002,1.77,0,0,0,1,14,15,155,0,27-Feb-22,01/08/2022 13:16,93.900002kg,1.77,105
+AB422,Male,Elective,138,112,alive,alive,no, yes,98,1.77,0,0,0,1,15,16,131,0,19-Dec-21,29/04/2022 10:32,98kg,1.77,112
+AB022,Male,Urgent,137,90,alive,alive,no, yes,102,1.77,13,2,1,4,6,10,99,0,16-Jul-22,23/10/2022 08:56,102kg,1.77,90
+AB301,Male,Elective,151,121,alive,alive,no, yes,110,1.77,0,0,0,1,3,4,127,0,25-Oct-20,01/03/2021 12:50,110kg,1.77,121
+AB145,Male,Elective,148,125,alive,alive,no, yes,117,1.77,0,0,0,1,7,8,113,0,08-Jul-21,29/10/2021 11:50,117kg,1.77,125
+AB734,Female,Urgent,104,87,alive,alive,no, yes,128,1.77,0,0,0,2,9,11,91,0,17-Jul-22,16/10/2022 01:31,128kg,1.77,87
+AB684,male,Elective,133,119,alive,alive, yes,no,56.799999,1.78,4,3,6,1,6,7,111,0,14-Mar-21,03/07/2021 19:21,56.799999kg,1.78,119
+AB642,Female,Elective,151,116,alive,alive,no, yes,57,1.78,0,0,0,2,9,11,119,0,02-Apr-21,30/07/2021 23:21,57kg,1.78,116
+AB962,Female,Elective,146,83,alive,alive,no, yes,62,1.78,3,1,6,1,11,12,135,0,19-Apr-21,01/09/2021 09:12,62kg,1.78,83
+AB181,Male,Urgent,97,89,alive,alive,no, yes,64,1.78,0,0,2,18,6,24,118,1,06-Mar-22,02/07/2022 20:03,64kg,1.78,89
+AB629,Male,Urgent,93,90,alive,alive,no, yes,65,1.78,0,0,4,15,7,22,94,1,12-Nov-22,14/02/2023 15:20,65kg,1.78,90
+AB854,Male,Elective,137,108,alive,alive,no, yes,66,1.78,0,1,0,1,10,11,100,0,09-May-21,17/08/2021 20:06,66kg,1.78,108
+AB234,Male,Urgent,139,88,alive,alive,no,no,70,1.78,7,4,14,9,68,77,122,0,14-Mar-22,14/07/2022 07:01,70kg,1.78,88
+AB693,Male,Elective,124,112,alive,alive,no,no,70,1.78,0,0,0,2,7,9,119,0,02-Dec-21,31/03/2022 01:35,70kg,1.78,112
+AB218,Male,Emergency,115,81,alive,alive,no, yes,71.5,1.78,0,0,4,0,12,12,112,0,03-Dec-22,25/03/2023 09:48,71.5kg,1.78,81
+AB227,Male,Emergency,121,84,alive,alive, yes,NA,76,1.78,13,5,12,0,11,11,115,0,14-Jan-22,09/05/2022 16:18,76kg,1.78,84
+AB682,Male,Urgent,135,89,alive,alive,no,no,76,1.78,8,6,16,11,67,78,133,0,21-Oct-22,03/03/2023 18:56,76kg,1.78,89
+AB131,Male,Elective,126,95,alive,alive,no, yes,77,1.78,0,0,0,1,5,6,106,0,03-Dec-21,19/03/2022 08:17,77kg,1.78,95
+AB467,Male,Urgent,130,101,alive,alive,no, yes,78,1.78,0,0,0,21,7,28,140,0,09-Jun-22,27/10/2022 02:24,78kg,1.78,101
+AB815,Male,Urgent,157,137,alive,alive,no,no,79,1.78,0,0,0,3,5,8,123,0,03-Sep-21,04/01/2022 03:08,79kg,1.78,137
+AB056,Male,Urgent,121,86,alive,alive,no, yes,82,1.78,0,2,2,9,8,17,99,0,07-Aug-22,14/11/2022 21:45,82kg,1.78,86
+AB591,Male,Elective,151,132,alive,alive,no,no,83.5,1.78,0,0,0,1,7,8,122,0,25-Dec-20,26/04/2021 07:35,83.5kg,1.78,132
+AB083,Male,Urgent,124,73,alive,alive, yes, yes,86,1.78,3,0,4,14,9,23,96,0,03-Feb-22,10/05/2022 16:11,86kg,1.78,73
+AB244,Male,Elective,141,87,alive,alive, yes,no,86,1.78,4,0,6,1,6,7,119,0,28-May-22,24/09/2022 09:43,86kg,1.78,87
+AB235,Male,Elective,125,89,alive,alive,no, yes,87,1.78,0,0,0,1,6,7,126,0,10-Oct-20,13/02/2021 10:21,87kg,1.78,89
+AB087,Male,Urgent,104,84,alive,alive,no, yes,88,1.78,0,2,6,7,21,28,104,0,08-Mar-22,20/06/2022 05:28,88kg,1.78,84
+AB296,Male,Elective,154,101,alive,alive,no,no,88,1.78,0,0,0,1,8,9,120,0,31-May-22,28/09/2022 03:21,88kg,1.78,101
+AB423,Male,Urgent,145,114,alive,alive,no, yes,89,1.78,0,0,0,14,5,19,140,0,05-Sep-22,23/01/2023 18:30,89kg,1.78,114
+AB1023,Male,Elective,150,106,alive,alive, yes,no,91.400002,1.78,0,0,1,1,22,23,112,1,26-Feb-21,18/06/2021 22:12,91.400002kg,1.78,106
+AB792,Male,Elective,151,118,alive,alive,no, yes,91.800003,1.78,0,0,0,1,8,9,92,0,23-Apr-21,24/07/2021 17:25,91.800003kg,1.78,118
+AB058,Male,Elective,131,107,alive,alive,no, yes,92,1.78,0,0,0,1,3,4,104,0,20-Aug-21,02/12/2021 14:29,92kg,1.78,107
+AB084,Male,Elective,142,102,alive,alive,no, yes,92,1.78,0,0,0,1,8,9,105,0,09-Aug-22,22/11/2022 16:21,92kg,1.78,102
+AB050,Male,Elective,151,97,alive,alive,no, yes,93.800003,1.78,0,0,0,1,5,6,94,0,07-Jul-22,09/10/2022 00:53,93.8kg,1.78,97
+AB256,Male,Elective,149,115,alive,alive,no,no,94,1.78,0,0,0,2,8,10,132,0,30-Apr-22,09/09/2022 19:38,94kg,1.78,115
+AB253,Female,Elective,118,106,alive,alive,no, yes,97.900002,1.78,0,0,0,1,10,11,132,0,25-Jun-22,04/11/2022 17:10,97.900002kg,1.78,106
+AB689,Male,Urgent,139,108,alive,alive,no, yes,98,1.78,0,4,0,2,6,8,108,0,23-Jun-22,09/10/2022 20:45,98kg,1.78,108
+AB870,Male,Elective,136,117,alive,alive,no, yes,98,1.78,0,0,0,1,21,22,129,0,09-Jan-22,18/05/2022 19:44,98kg,1.78,117
+AB947,Male,Urgent,141,94,alive,alive,no, yes,99.199997,1.78,6,1,1,21,25,46,158,0,08-Oct-21,15/03/2022 15:36,99.199997kg,1.78,94
+AB294,Male,Elective,136,111,alive,alive,no, yes,112.4,1.78,0,0,0,1,6,7,113,0,10-May-21,31/08/2021 08:09,112.4kg,1.78,111
+AB577,Male,Urgent,137,94,alive,alive, yes, yes,66,1.79,6,7,10,1,6,7,125,0,03-Aug-22,06/12/2022 11:12,66kg,1.79,94
+AB434,Male,Elective,106,103,alive,alive,no,no,68,1.79,5,1,4,2,14,16,148,0,06-Jun-22,01/11/2022 07:10,68kg,1.79,103
+AB882,Male,Elective,106,104,alive,alive,no,no,68,1.79,4,2,2,2,12,14,124,0,09-Jan-21,13/05/2021 22:00,68kg,1.79,104
+AB191,Male,Elective,139,93,alive,alive,no,no,69,1.79,6,1,0,3,7,10,122,1,14-Aug-22,14/12/2022 00:14,69kg,1.79,93
+AB140,Male,Elective,146,106,alive,alive,no,no,74,1.79,0,1,0,1,6,7,96,0,07-Nov-22,11/02/2023 15:06,74kg,1.79,106
+AB821,Male,Urgent,152,98,alive,alive,no, yes,74,1.79,4,0,0,8,7,15,135,0,18-Jan-22,02/06/2022 02:20,74kg,1.79,98
+AB899,Male,Elective,148,121,alive,alive,no, yes,74.300003,1.79,0,0,0,1,6,7,119,0,25-Jul-22,21/11/2022 20:46,74.300003kg,1.79,121
+AB811,Male,Elective,141,116,alive,alive,no, yes,74.5,1.79,4,2,0,1,6,7,139,1,28-Feb-22,17/07/2022 19:18,74.5kg,1.79,116
+AB927,Male,Elective,149,108,alive,alive,no,no,75,1.79,3,1,0,1,5,6,79,0,29-Dec-22,18/03/2023 02:18,75kg,1.79,108
+AB086,Male,Urgent,112,82,alive,alive,no, yes,76,1.79,0,0,2,27,37,64,94,0,18-Sep-22,21/12/2022 15:41,76kg,1.79,82
+AB496,Male,Elective,140,111,alive,alive,no, yes,76.599998,1.79,0,1,2,2,6,8,131,0,31-Jan-21,11/06/2021 12:25,76.599998kg,1.79,111
+AB195,Male,Urgent,131,103,alive,alive,no,NA,79,1.79,0,0,0,3,5,8,126,0,04-Sep-22,08/01/2023 21:57,79kg,1.79,103
+AB263,Male,Elective,139,120,alive,alive,no, yes,79,1.79,0,0,0,1,5,6,95,0,05-Nov-22,08/02/2023 00:44,79kg,1.79,120
+AB280,Male,Elective,142,113,alive,alive,no,no,80,1.79,0,0,0,1,6,7,114,0,31-Mar-22,23/07/2022 10:45,80kg,1.79,113
+AB367,Male,Urgent,154,136,alive,alive,no,no,81,1.79,0,0,2,3,9,12,124,0,28-Jul-21,29/11/2021 16:13,81kg,1.79,136
+AB958,Male,Elective,139,97,alive,alive,no,no,81,1.79,0,0,0,1,10,11,135,0,01-May-22,13/09/2022 16:16,81kg,1.79,97
+AB918,Male,Elective,126,94,alive,alive,no, yes,81.900002,1.79,0,2,2,1,4,5,85,0,16-Apr-22,10/07/2022 04:51,81.900002kg,1.79,94
+AB650,Male,Urgent,91,80,died,alive, yes, yes,83,1.79,9,4,10,45,39,84,82,1,24-Jan-22,16/04/2022 23:26,83kg,1.79,80
+AB943,Male,Elective,133,92,alive,alive,no, yes,83,1.79,0,0,2,3,5,8,102,0,11-Jan-22,23/04/2022 13:16,83kg,1.79,92
+AB165,Male,Urgent,124,78,alive,alive,no,no,83.599998,1.79,0,0,0,11,8,19,110,0,25-Jan-22,15/05/2022 19:28,83.6,1.79,78
+AB065,Male,Elective,135,103,alive,alive,no, yes,85,1.79,0,0,0,1,8,9,108,0,07-Apr-22,24/07/2022 09:50,85kg,1.79,103
+AB408,Male,Elective,127,102,alive,alive,no, yes,87,1.79,0,0,0,1,5,6,137,0,09-Aug-22,24/12/2022 11:03,87kg,1.79,102
+AB748,Male,Elective,115,78,alive,alive,no, yes,87,1.79,5,3,4,1,50,51,110,0,28-Apr-22,16/08/2022 19:41,87kg,1.79,78
+AB016,Male,Elective,148,97,alive,alive,no,no,88,1.79,0,0,0,1,9,10,92,0,10-Jan-22,12/04/2022 05:22,88kg,1.79,97
+AB735,Male,Elective,145,89,alive,alive,no, yes,88,1.79,0,0,0,1,4,5,109,0,17-Aug-21,04/12/2021 13:08,88kg,1.79,89
+AB060,Male,Elective,152,99,alive,alive,no, yes,89,1.79,5,0,0,1,6,7,98,1,02-Jul-22,08/10/2022 07:46,89kg,1.79,99
+AB478,Male,Elective,161,115,alive,alive,no, yes,90,1.79,5,2,0,1,6,7,127,1,21-Feb-21,28/06/2021 22:50,90kg,1.79,115
+AB987,Male,Elective,156,118,alive,alive,no,no,91,1.79,0,0,0,1,6,7,145,0,08-Mar-22,31/07/2022 23:24,91kg,1.79,118
+AB289,Male,Emergency,98,90,alive,alive,no, yes,93,1.79,6,1,1,17,12,29,114,0,26-Jun-22,18/10/2022 09:36,93kg,1.79,90
+AB020,Male,Elective,133,104,alive,alive,no, yes,95,1.79,0,0,0,1,7,8,113,0,22-Jul-22,12/11/2022 01:27,95kg,1.79,104
+AB077,Male,Elective,150,88,alive,alive,no, yes,95.099998,1.79,0,4,1,1,9,10,106,0,07-Jul-21,21/10/2021 14:35,95.1,1.79,88
+AB077,Male,Elective,150,88,alive,alive,no, yes,95.099998,1.79,0,4,1,1,9,10,106,0,07-Jul-21,21/10/2021 14:35,95.099998kg,1.79,88
+AB314,Male,Emergency,133,104,alive,alive,no,no,96,1.79,0,1,2,0,19,19,132,0,05-Dec-21,16/04/2022 08:35,96kg,1.79,104
+AB462,Male,Urgent,163,110,alive,alive,no,no,96,1.79,0,0,0,8,4,12,143,0,26-Dec-21,18/05/2022 00:22,96kg,1.79,110
+AB670,Male,Urgent,96,80,alive,alive, yes,no,96,1.79,10,3,16,2,13,15,128,0,10-Nov-21,18/03/2022 14:25,96kg,1.79,80
+AB053,Male,Emergency,114,75,alive,alive, yes, yes,98,1.79,16,3,16,0,190,190,146,0,16-Oct-22,11/03/2023 14:39,98kg,1.79,75
+AB850,Male,Elective,126,99,alive,alive,no, yes,99,1.79,0,2,3,1,6,7,91,0,18-Mar-22,17/06/2022 08:04,99kg,1.79,99
+AB402,Male,Elective,124,99,alive,alive,no, yes,101,1.79,0,1,2,1,5,6,100,0,29-May-21,06/09/2021 10:11,101kg,1.79,99
+AB285,Male,Elective,142,102,alive,alive,no, yes,103,1.79,0,0,0,1,11,12,121,0,14-Jun-22,13/10/2022 15:16,103kg,1.79,102
+AB742,Male,Elective,137,109,alive,alive,no, yes,108.4,1.79,0,0,0,1,5,6,124,0,19-Jan-22,23/05/2022 06:53,108.4kg,1.79,109
+AB826,Male,Elective,147,104,alive,alive,no, yes,123,1.79,0,0,0,1,5,6,126,0,27-May-21,30/09/2021 16:02,123kg,1.79,104
+AB246,Female,Urgent,94,106,alive,alive,no, yes,127,1.79,14,4,23,5,16,21,119,0,29-Jan-22,28/05/2022 21:36,127kg,1.79,106
+AB312,Male,Urgent,124,79,alive,alive,no,no,62,1.8,0,0,1,7,7,14,121,1,10-Apr-22,09/08/2022 14:10,62kg,1.8,79
+AB998,Male,,,,,,,,64,1.8,,,,,,,,,,,,1.8,
+AB406,Male,Elective,136,107,alive,alive,no, yes,67,1.8,5,0,1,1,8,9,138,0,19-Jan-22,06/06/2022 19:12,67kg,1.8,107
+AB579,Female,Elective,119,87,alive,alive,no, yes,70,1.8,0,0,1,1,9,10,99,0,07-Oct-21,14/01/2022 05:59,70kg,1.8,87
+AB935,Male,Urgent,123,88,alive,alive, yes, yes,70,1.8,8,1,9,2,25,27,103,0,22-Apr-22,03/08/2022 19:20,70kg,1.8,88
+AB118,Male,Elective,136,99,alive,alive,no, yes,73,1.8,0,0,0,1,6,7,127,0,25-Sep-21,30/01/2022 13:16,73kg,1.8,99
+AB341,Male,Emergency,115,72,died,alive,no,no,74,1.8,0,2,4,2,8,10,8,1,30-Nov-22,08/12/2022 17:23,74kg,1.8,72
+AB639,Male,Elective,139,93,alive,alive,no,no,74,1.8,4,0,0,3,7,10,118,0,29-Dec-21,26/04/2022 19:48,74kg,1.8,93
+AB190,Male,Elective,105,91,alive,alive,no, yes,74.300003,1.8,0,0,0,1,9,10,124,0,04-Nov-22,08/03/2023 06:38,74.3,1.8,91
+AB638,Male,Elective,104,92,alive,alive,no, yes,75.300003,1.8,0,3,0,1,5,6,118,0,01-Dec-21,29/03/2022 13:13,75.300003kg,1.8,92
+AB944,Male,Elective,141,104,alive,alive,no, yes,75.599998,1.8,0,0,0,1,5,6,102,0,14-Aug-21,24/11/2021 03:13,75.599998kg,1.8,104
+AB853,Male,Elective,124,82,alive,alive,no, yes,76,1.8,4,2,3,1,7,8,118,0,30-Aug-22,26/12/2022 18:58,76kg,1.8,82
+AB043,Male,Urgent,126,96,alive,alive,no,no,79,1.8,0,0,3,3,6,9,97,0,31-May-21,05/09/2021 04:11,79kg,1.8,96
+AB643,Male,Urgent,136,103,alive,alive,no,NA,79,1.8,0,0,0,3,7,10,130,0,08-Mar-22,16/07/2022 01:33,79kg,1.8,103
+AB130,Male,Elective,153,90,alive,alive,no,no,79.400002,1.8,6,1,0,1,4,5,116,0,14-Sep-22,08/01/2023 01:38,79.4,1.8,90
+AB540,Male,Emergency,124,94,alive,alive,no, yes,80,1.8,0,2,2,2,6,8,140,0,24-May-22,11/10/2022 18:25,80kg,1.8,94
+AB572,Male,Elective,137,102,alive,alive, yes, yes,80,1.8,4,4,4,1,7,8,119,0,19-May-22,15/09/2022 15:23,80kg,1.8,102
+AB711,Male,Elective,141,122,alive,alive,no, yes,80,1.8,0,0,0,1,5,6,92,0,27-Apr-22,28/07/2022 00:00,80kg,1.8,122
+AB464,Male,Elective,143,84,alive,alive,no,no,81,1.8,0,1,0,1,8,9,129,0,07-Jun-22,14/10/2022 12:25,81kg,1.8,84
+AB510,Male,Elective,142,98,alive,alive,no,no,81,1.8,0,0,0,2,9,11,134,0,05-Apr-22,17/08/2022 05:51,81kg,1.8,98
+AB721,Male,Elective,137,97,alive,alive,no, yes,81,1.8,0,0,0,1,6,7,138,0,23-Mar-22,08/08/2022 01:43,81kg,1.8,97
+AB015,Male,Elective,146,104,alive,alive,no, yes,82,1.8,0,0,0,2,5,7,102,0,25-Nov-21,07/03/2022 03:43,82kg,180mm,104
+AB143,Male,Elective,152,127,alive,alive,no,no,82.5,1.8,0,0,1,1,7,8,107,1,18-Jun-22,03/10/2022 14:56,82.5kg,1.8,127
+AB317,Male,Urgent,99,100,alive,alive,no, yes,83,1.8,0,0,3,11,7,18,129,0,06-Dec-21,14/04/2022 19:59,83kg,1.8,100
+AB912,Male,Elective,143,80,alive,alive,no,no,83,1.8,3,2,0,1,8,9,105,0,07-Aug-22,20/11/2022 11:34,83kg,1.8,80
+AB915,Male,Urgent,129,98,alive,alive,no, yes,83,1.8,0,0,0,21,7,28,102,1,26-Jan-22,08/05/2022 21:17,83kg,1.8,98
+AB115,Male,Elective,154,127,alive,alive,no, yes,84,1.8,0,0,0,0,7,7,111,0,17-Apr-21,06/08/2021 04:36,84kg,1.8,127
+AB394,Male,Urgent,116,97,alive,alive,no, yes,84,1.8,0,0,1,2,7,9,132,0,25-Aug-22,04/01/2023 18:15,84kg,1.8,97
+AB125,Male,Elective,136,105,alive,alive,no,no,84.400002,1.8,0,0,0,7,5,12,123,0,29-Mar-22,30/07/2022 19:31,84.4 KG,1.8,105
+AB300,Male,Elective,115,84,alive,alive,no, yes,85,1.8,6,1,1,1,50,51,126,0,31-May-22,04/10/2022 06:44,85kg,1.8,84
+AB808,Male,Elective,161,120,alive,alive,no, yes,85,1.8,0,0,0,0,9,9,117,0,12-Feb-22,09/06/2022 13:41,85kg,1.8,120
+AB424,Male,Urgent,102,89,alive,alive,no,no,86,1.8,12,2,11,2,35,37,131,0,26-Jun-21,04/11/2021 10:55,86kg,1.8,89
+AB871,Male,Urgent,142,113,alive,alive,no, yes,89,1.8,0,0,0,18,6,24,149,0,14-Jan-22,12/06/2022 07:46,89kg,1.8,113
+AB565,Male,Elective,138,110,alive,alive,no, yes,90,1.8,0,0,0,0,4,4,145,0,14-Dec-21,08/05/2022 20:34,90kg,1.8,110
+AB729,Male,Urgent,128,99,alive,alive,no,no,90,1.8,0,2,0,3,15,18,149,0,20-Jul-22,16/12/2022 03:58,90kg,1.8,99
+AB872,Male,Urgent,104,89,alive,alive,no,no,91,1.8,10,1,13,2,36,38,114,0,09-Apr-22,01/08/2022 09:12,91kg,1.8,89
+AB288,Male,Urgent,118,99,alive,alive,no, yes,92,1.8,0,0,0,5,4,9,98,0,28-Mar-22,04/07/2022 00:54,92kg,1.8,99
+AB704,Male,Elective,148,118,alive,alive,no,no,92,1.8,0,0,0,1,7,8,138,0,09-Apr-22,25/08/2022 03:17,92kg,1.8,118
+AB539,Male,Elective,156,119,alive,alive,no,no,93,1.8,0,0,0,1,7,8,159,0,30-Mar-22,05/09/2022 07:17,93kg,1.8,119
+AB336,Male,Elective,149,112,alive,alive,no, yes,95,1.8,0,0,0,1,3,4,115,0,17-Dec-22,11/04/2023 19:07,95kg,1.8,112
+AB027,Male,Elective,139,102,alive,alive,no, yes,96,1.8,0,0,0,1,8,9,106,0,20-Nov-21,06/03/2022 22:43,96kg,1.8,102
+AB346,Male,Urgent,174,141,alive,alive,no, yes,97.099998,1.8,0,0,0,1,8,9,146,0,12-Sep-22,05/02/2023 05:49,97.099998kg,1.8,141
+AB435,Male,Elective,106,91,alive,alive,no, yes,97.699997,1.8,7,1,4,1,11,12,140,0,28-May-21,15/10/2021 02:34,97.699997kg,1.8,91
+AB076,Male,Urgent,121,91,alive,alive,no, yes,98,1.8,6,0,1,21,5,26,111,1,19-Mar-22,08/07/2022 23:46,98kg,1.8,91
+AB018,Male,Elective,125,102,alive,alive,no, yes,99.800003,1.8,0,0,0,0,9,9,105,0,26-Dec-21,10/04/2022 09:06,99.8KG,1.8,102
+AB327,Male,Elective,139,116,alive,alive,no, yes,100,1.8,0,0,5,1,4,5,116,0,01-Jun-21,25/09/2021 22:06,100kg,1.8,116
+AB641,Male,Urgent,124,101,alive,alive,no, yes,102,1.8,0,3,2,4,3,7,93,0,16-Oct-22,17/01/2023 11:17,102kg,1.8,101
+AB876,Male,Elective,137,116,alive,alive,no, yes,103,1.8,0,0,0,1,6,7,151,1,19-Jul-22,17/12/2022 14:46,103kg,1.8,116
+AB102,Male,Urgent,92,87,alive,alive,no, yes,104,1.8,7,1,3,1,11,12,98,0,08-Feb-22,17/05/2022 17:42,104kg,1.8,87
+AB278,Male,Elective,147,121,alive,alive,no, yes,104,1.8,0,0,0,0,5,5,127,0,28-May-22,02/10/2022 08:34,104kg,1.8,121
+AB652,Female,Elective,119,89,alive,alive,no,no,104,1.8,0,0,0,2,7,9,126,0,27-Sep-21,31/01/2022 22:22,104kg,1.8,89
+AB786,Male,Urgent,154,108,alive,alive,no,no,104,1.8,0,0,0,14,5,19,130,0,29-Aug-22,06/01/2023 10:38,104kg,1.8,108
+AB238,Male,Elective,132,94,died,alive,no, yes,105,1.8,0,0,2,1,6,7,7,1,18-Feb-22,25/02/2022 17:34,105kg,1.8,94
+AB193,Male,Urgent,123,100,alive,alive,no, yes,107,1.8,0,2,1,4,6,10,112,0,25-Sep-22,15/01/2023 00:29,107kg,1.8,100
+AB573,Male,Elective,145,114,alive,alive,no,no,108,1.8,0,0,0,1,7,8,149,0,04-Nov-21,02/04/2022 00:46,108kg,1.8,114
+AB598,Male,Elective,148,112,alive,alive,no, yes,111.4,1.8,0,0,0,1,25,26,112,0,13-Jul-22,02/11/2022 02:00,111.4kg,1.8,112
+AB679,Male,Elective,143,107,alive,alive,no, yes,113,1.8,0,0,0,1,6,7,105,0,15-Feb-21,31/05/2021 03:30,113kg,1.8,107
+AB039,Male,Elective,126,103,alive,alive,no, yes,114,1.8,0,0,0,3,5,8,120,0,03-Nov-22,03/03/2023 23:40,114kg,1.8,103
+AB231,Male,Elective,141,110,alive,alive,no, yes,115,1.8,0,0,1,1,4,5,108,0,02-Mar-22,18/06/2022 10:23,115kg,1.8,110
+AB749,Male,Elective,154,122,alive,alive,no, yes,117,1.8,0,1,0,2,5,7,111,1,22-Dec-21,12/04/2022 01:22,117kg,1.8,122
+AB378,Male,Elective,147,105,alive,alive,no, yes,123,1.8,0,0,0,1,3,4,162,0,16-May-21,25/10/2021 14:20,123kg,1.8,105
+AB580,Male,Elective,149,91,alive,alive, yes, yes,64,1.8099999,4,3,9,1,13,14,102,0,12-May-21,22/08/2021 15:18,64kg,1.8099999,91
+AB760,Male,Urgent,123,77,alive,alive,no,no,68,1.8099999,0,0,2,7,9,16,97,0,24-Jul-22,29/10/2022 07:09,68kg,1.8099999,77
+AB578,Male,Elective,133,96,alive,alive,no, yes,72,1.8099999,0,0,0,1,7,8,136,0,17-Dec-21,02/05/2022 09:28,72kg,1.8099999,96
+AB924,Male,Urgent,128,90,alive,alive,no,no,73,1.8099999,0,0,4,5,5,10,145,0,20-Jan-22,14/06/2022 00:48,73kg,1.8099999,90
+AB451,Male,Elective,148,123,alive,alive,no, yes,74.300003,1.8099999,0,0,0,1,9,10,126,1,21-Apr-22,25/08/2022 18:48,74.300003kg,1.8099999,123
+AB405,Male,Elective,127,82,alive,alive,no, yes,75,1.8099999,0,1,4,1,7,8,147,0,07-Jul-21,01/12/2021 21:53,75kg,1.8099999,82
+AB099,Male,Elective,160,98,alive,alive,no,no,76,1.8099999,0,0,4,2,5,7,116,0,07-Aug-21,01/12/2021 22:17,76kg,1.8099999,98
+AB112,Male,Elective,136,106,alive,alive, yes, yes,79,1.8099999,4,2,4,1,8,9,111,0,10-Apr-22,30/07/2022 14:57,79kg,1.8099999,106
+AB521,Male,Urgent,127,93,alive,alive,no, yes,79.599998,1.8099999,0,0,6,14,4,18,142,0,26-Feb-22,18/07/2022 14:51,79.599998kg,1.8099999,93
+AB302,Male,Urgent,140,86,alive,alive, yes, yes,81,1.8099999,0,0,0,1,8,9,135,0,03-Nov-21,18/03/2022 08:09,81kg,1.8099999,86
+AB202,Male,Urgent,90,80,died,alive, yes, yes,85,1.8099999,7,2,7,42,39,81,82,1,01-Nov-21,22/01/2022 02:15,85kg,1.8099999,80
+AB463,Male,Elective,142,107,alive,alive,no, yes,85,1.8099999,3,1,0,1,8,9,133,0,02-Apr-22,13/08/2022 15:58,85kg,1.8099999,107
+AB713,Male,Emergency,149,123,alive,alive,no, yes,88,1.8099999,0,0,0,2,24,26,98,0,12-Mar-21,18/06/2021 21:07,88kg,1.8099999,123
+AB911,Male,Elective,141,109,alive,alive,no, yes,88,1.8099999,0,2,0,1,9,10,131,0,14-Jan-22,25/05/2022 10:24,88kg,1.8099999,109
+AB934,Male,Emergency,125,83,alive,alive,no, yes,88,1.8099999,0,0,1,1,12,13,129,0,13-Nov-21,22/03/2022 23:43,88kg,1.8099999,83
+AB281,Male,Urgent,133,103,alive,alive,no,no,90,1.8099999,0,1,0,3,16,19,124,0,09-Apr-21,11/08/2021 17:51,90kg,1.8099999,103
+AB908,Male,Elective,146,103,died,alive,no, yes,91,1.8099999,0,0,0,1,60,61,62,1,09-Jun-22,10/08/2022 12:27,91kg,1.8099999,103
+AB736,Male,Urgent,118,100,alive,alive,no, yes,93,1.8099999,0,0,0,9,5,14,115,0,08-Sep-22,01/01/2023 19:37,93kg,1.8099999,100
+AB784,Male,Elective,148,114,alive,alive,no, yes,93,1.8099999,0,0,0,0,6,6,132,0,13-Feb-21,25/06/2021 15:30,93kg,1.8099999,114
+AB075,Male,Elective,140,102,alive,alive,no, yes,95,1.8099999,0,0,0,1,7,8,118,0,11-Sep-21,07/01/2022 08:24,95kg,1.8099999,102
+AB473,Male,Elective,118,91,alive,alive,no, yes,95,1.8099999,0,0,0,1,5,6,140,0,14-May-21,01/10/2021 15:59,95kg,1.8099999,91
+AB910,Male,Urgent,160,113,alive,alive,no,no,96,1.8099999,0,0,0,8,6,14,112,0,20-Mar-22,10/07/2022 07:33,96kg,1.8099999,113
+AB726,Male,Elective,148,124,alive,alive,no, yes,98,1.8099999,0,0,0,0,4,4,117,0,22-May-22,16/09/2022 03:21,98kg,1.8099999,124
+AB794,Male,Urgent,175,142,alive,alive,no, yes,98.099998,1.8099999,0,0,0,1,8,9,141,0,19-Dec-21,09/05/2022 20:40,98.099998kg,1.8099999,142
+AB677,Male,Urgent,166,97,alive,alive,no, yes,102,1.8099999,12,3,0,2,15,17,117,0,16-Oct-21,10/02/2022 07:44,102kg,1.8099999,97
+AB338,Male,Urgent,155,109,alive,alive,no,no,103,1.8099999,0,0,2,17,5,22,131,0,05-Jan-22,16/05/2022 17:03,103kg,1.8099999,109
+AB452,Male,Urgent,149,114,alive,alive,no, yes,103.3,1.8099999,0,0,0,5,9,14,130,1,29-Jun-21,06/11/2021 22:55,103.3kg,1.8099999,114
+AB428,Male,Elective,135,119,alive,alive,no, yes,106,1.8099999,0,0,0,1,7,8,147,0,05-Oct-20,01/03/2021 04:12,106kg,1.8099999,119
+AB485,Male,Elective,144,116,alive,alive,no, yes,107,1.8099999,0,0,0,1,10,11,146,0,17-Jun-22,10/11/2022 20:28,107kg,1.8099999,116
+AB991,Male,Elective,154,123,alive,alive,no, yes,108,1.8099999,0,0,0,1,3,4,125,0,16-Jun-21,19/10/2021 06:20,108kg,1.8099999,123
+AB506,Male,Elective,143,121,alive,alive,no, yes,120,1.8099999,0,0,1,2,4,6,139,0,21-Jul-21,07/12/2021 21:27,120kg,1.8099999,121
+AB954,Male,Elective,142,121,alive,alive,no, yes,122,1.8099999,0,0,0,1,4,5,113,0,19-Jan-22,12/05/2022 18:08,122kg,1.8099999,121
+AB550,Male,Elective,103,98,died,alive, yes,no,58,1.8200001,16,11,46,10,48,58,56,1,07-Aug-21,02/10/2021 23:33,58kg,1.8200001,98
+AB132,Male,Elective,150,91,alive,alive, yes, yes,68,1.8200001,5,2,7,1,9,10,110,0,10-Apr-22,29/07/2022 22:04,68kg,1.8200001,91
+AB759,Male,Elective,133,114,alive,alive,no,no,75,1.8200001,0,0,0,1,4,5,121,0,22-Sep-22,21/01/2023 09:59,75kg,1.8200001,114
+AB750,Male,Urgent,143,85,alive,alive, yes, yes,78,1.8200001,0,0,4,2,12,14,156,0,02-Apr-21,05/09/2021 14:31,78kg,1.8200001,85
+AB470,Male,Elective,125,94,alive,alive,no, yes,78.900002,1.8200001,3,1,4,1,7,8,131,0,16-May-22,24/09/2022 03:53,78.900002kg,1.8200001,94
+AB002,Male,Urgent,97,104,alive,alive, yes, yes,79,1.8200001,5,2,15,23,52,75,103,0,09-Apr-22,21/07/2022 00:47,79kg,1.82m,104
+AB728,Male,Elective,145,113,alive,alive,no,no,82,1.8200001,0,0,0,1,4,5,126,0,09-Nov-22,15/03/2023 07:58,82kg,1.8200001,113
+AB110,Male,Elective,140,110,alive,alive,no, yes,84,1.8200001,0,0,0,1,16,17,105,0,05-Sep-22,19/12/2022 20:55,84kg,1.8200001,110
+AB969,Male,Urgent,128,93,alive,alive,no, yes,84.599998,1.8200001,0,0,6,12,7,19,99,0,06-Sep-21,14/12/2021 09:30,84.599998kg,1.8200001,93
+AB136,Male,Urgent,130,95,alive,alive,no, yes,87,1.8200001,0,0,0,4,12,16,113,0,19-Dec-22,11/04/2023 17:22,87kg,1.8200001,95
+AB224,Male,Elective,147,87,alive,alive,no, yes,87,1.8200001,0,0,0,1,8,9,117,0,18-Jun-22,13/10/2022 12:37,87kg,1.8200001,87
+AB575,Male,Elective,156,128,alive,alive,no, yes,87,1.8200001,0,0,0,0,5,5,111,1,21-Apr-22,10/08/2022 07:03,87kg,1.8200001,128
+AB040,Male,Urgent,139,99,alive,alive,no,NA,88,1.8200001,0,0,2,2,8,10,125,1,19-Nov-22,24/03/2023 01:10,88kg,1.8200001,99
+AB765,Male,Urgent,97,102,alive,alive,no, yes,88,1.8200001,0,0,4,12,6,18,131,0,19-Apr-22,28/08/2022 19:50,88kg,1.8200001,102
+AB926,Male,Elective,162,114,alive,alive,no, yes,91,1.8200001,5,1,0,1,7,8,105,1,09-Aug-22,22/11/2022 12:49,91kg,1.8200001,114
+AB1016,Male,Elective,149,108,alive,alive, yes,no,91.400002,1.8200001,0,0,3,1,20,21,121,0,05-Aug-21,04/12/2021 19:23,91.400002kg,1.8200001,108
+AB333,Male,Elective,137,100,alive,alive,no,no,92,1.8200001,6,0,0,2,6,8,120,0,17-Aug-21,15/12/2021 22:29,92kg,1.8200001,100
+AB460,Male,Elective,146,100,died,alive,no, yes,92,1.8200001,0,0,1,1,62,63,62,1,05-Feb-22,08/04/2022 18:58,92kg,1.8200001,100
+AB676,Male,Elective,105,86,alive,alive,NA, yes,92,1.8200001,0,0,2,0,6,6,125,1,16-Oct-21,18/02/2022 04:05,92kg,1.8200001,86
+AB737,Male,Emergency,99,92,alive,alive,no, yes,92,1.8200001,5,0,2,15,17,32,116,0,21-Nov-21,17/03/2022 11:59,92kg,1.8200001,92
+AB568,Male,Elective,152,106,alive,alive, yes,no,92.400002,1.8200001,0,0,0,1,24,25,150,0,21-Jan-22,20/06/2022 19:44,92.400002kg,1.8200001,106
+AB006,Male,Elective,156,108,alive,alive,no, yes,94.699997,1.8200001,0,0,0,1,7,8,100,0,23-Mar-22,01/07/2022 11:26,94.7KG,1.8200001,108
+AB228,Male,Elective,103,87,alive,alive,NA, yes,95,1.8200001,0,0,1,0,5,5,118,0,27-Mar-21,23/07/2021 11:10,95kg,1.8200001,87
+AB883,Male,Elective,107,92,alive,alive,no, yes,96.699997,1.8200001,5,2,3,1,8,9,142,0,25-May-22,14/10/2022 17:20,96.699997kg,1.8200001,92
+AB082,Male,Elective,144,135,alive,alive,no,no,98,1.8200001,0,0,0,2,7,9,108,0,20-Nov-22,08/03/2023 07:11,98kg,1.8200001,135
+AB163,Male,Elective,145,108,alive,alive,no, yes,98,1.8200001,0,0,0,1,13,14,105,0,08-Mar-22,21/06/2022 13:24,98kg,1.8200001,108
+AB775,Male,Elective,138,117,alive,alive,no, yes,99,1.8200001,0,0,0,1,4,5,126,0,07-Jan-22,13/05/2022 07:38,99kg,1.8200001,117
+AB890,Male,Elective,143,105,alive,alive,no, yes,99,1.8200001,0,0,0,1,8,9,132,0,09-Nov-21,21/03/2022 22:35,99kg,1.8200001,105
+AB921,Male,Elective,118,91,alive,alive,no, yes,99,1.8200001,0,0,3,1,5,6,101,0,03-Feb-22,15/05/2022 13:45,99kg,1.8200001,91
+AB159,Male,Elective,147,99,alive,alive,no, yes,100.3,1.8200001,0,0,0,1,5,6,111,0,11-Jan-22,02/05/2022 05:56,100.3kg,1.8200001,99
+AB946,Male,Elective,143,91,alive,alive, yes, yes,103,1.8200001,0,2,4,1,11,12,154,0,01-Mar-22,02/08/2022 11:20,103kg,1.8200001,91
+AB959,Male,Elective,126,93,alive,alive,no, yes,106,1.8200001,0,0,0,1,6,7,143,0,09-Dec-21,01/05/2022 18:10,106kg,1.8200001,93
+AB113,Male,Elective,145,114,alive,alive,no,no,108,1.8200001,0,0,0,1,6,7,111,1,18-Aug-21,07/12/2021 17:22,108kg,1.8200001,114
+AB004,Male,Elective,138,105,alive,alive,no, yes,117,1.8200001,0,0,1,1,6,7,106,1,25-Sep-22,09/01/2023 13:21,117kg,1.8200001,105
+AB142,Male,Elective,154,114,alive,alive,no,no,71,1.83,0,0,0,5,9,14,98,0,12-Nov-21,18/02/2022 02:46,71kg,1.83,114
+AB590,Male,Elective,152,115,alive,alive,no,no,73,1.83,0,0,0,8,5,13,93,0,19-Jul-21,20/10/2021 06:19,73kg,1.83,115
+AB832,Male,Urgent,79,112,alive,alive,no,no,74.400002,1.83,0,0,8,10,9,19,104,0,17-May-21,29/08/2021 14:21,74.400002kg,1.83,112
+AB696,Male,Elective,141,99,alive,alive,no,no,75,1.83,0,0,0,1,4,5,90,0,12-Jun-21,10/09/2021 08:07,75kg,1.83,99
+AB248,Male,Elective,139,102,alive,alive,no,no,76,1.83,0,0,0,1,4,5,111,0,30-Mar-21,19/07/2021 12:00,76kg,1.83,102
+AB303,Male,Urgent,133,87,alive,alive,no, yes,78,1.83,0,0,4,8,7,15,107,0,22-Dec-21,08/04/2022 08:58,78kg,1.83,87
+AB390,Male,Elective,143,105,alive,alive,no, yes,79,1.83,0,0,0,1,6,7,121,0,03-May-21,01/09/2021 11:58,79kg,1.83,105
+AB461,Male,Elective,137,102,alive,alive, yes, yes,80,1.83,0,0,1,2,8,10,134,0,17-Aug-22,29/12/2022 16:48,80kg,1.83,102
+AB189,Male,Elective,144,100,alive,alive,no,no,82.400002,1.83,0,0,0,1,3,4,108,0,03-Nov-21,19/02/2022 17:06,82.4,1.83,100
+AB838,Male,Elective,143,104,alive,alive,no, yes,83,1.83,0,0,0,1,6,7,104,0,24-Sep-22,06/01/2023 08:14,83kg,1.83,104
+AB613,Male,Urgent,123,76,alive,alive,no,no,85.599998,1.83,0,0,0,14,7,21,90,0,11-Dec-21,11/03/2022 08:42,85.599998kg,1.83,76
+AB584,Male,Urgent,130,98,alive,alive,no, yes,86,1.83,0,0,0,4,12,16,120,0,02-Aug-22,30/11/2022 02:52,86kg,1.83,98
+AB570,Male,Elective,146,108,alive,alive,no, yes,87,1.83,0,0,0,1,14,15,131,1,04-Nov-21,15/03/2022 01:33,87kg,1.83,108
+AB486,Male,Emergency,127,86,alive,alive,no, yes,88,1.83,0,0,2,1,15,16,140,0,18-May-22,05/10/2022 08:18,88kg,1.83,86
+AB012,Male,Emergency,167,109,alive,alive,no,no,91,1.83,4,2,3,1,70,71,102,0,07-Feb-22,20/05/2022 15:10,91kg,1.83,109
+AB790,Male,Urgent,165,123,alive,alive,no,no,95.5,1.83,0,0,0,1,4,5,69,0,10-Dec-21,17/02/2022 18:21,95.5kg,1.83,123
+AB492,Male,Elective,164,112,alive,alive,no, yes,97,1.83,5,1,1,1,9,10,135,0,05-Nov-22,20/03/2023 17:37,97kg,1.83,112
+AB757,Male,Elective,153,111,alive,alive,no,no,97,1.83,0,0,0,3,7,10,130,0,29-Jul-22,06/12/2022 07:07,97kg,1.83,111
+AB442,Male,Elective,146,104,alive,alive,no, yes,100,1.83,0,0,0,1,6,7,157,0,06-May-22,10/10/2022 04:57,100kg,1.83,104
+AB686,Male,Elective,128,96,died,alive,no, yes,101,1.83,0,0,1,1,5,6,7,1,05-Apr-22,12/04/2022 01:06,101kg,1.83,96
+AB355,Male,Elective,149,97,alive,alive,no, yes,104,1.83,3,0,3,1,20,21,123,0,10-Apr-21,11/08/2021 17:05,104kg,1.83,97
+AB498,Male,Elective,144,88,alive,alive, yes, yes,104,1.83,0,0,8,1,8,9,157,1,19-Jul-20,23/12/2020 05:49,104kg,1.83,88
+AB511,Male,Elective,126,92,alive,alive,no, yes,104,1.83,0,0,0,2,6,8,164,0,05-Dec-21,18/05/2022 14:29,104kg,1.83,92
+AB416,Male,Elective,155,127,alive,alive,no,no,105,1.83,0,0,0,1,6,7,137,0,02-Apr-22,17/08/2022 17:52,105kg,1.83,127
+AB803,Male,Elective,148,97,alive,alive,no, yes,106,1.83,4,0,0,1,11,12,137,0,16-Aug-21,31/12/2021 20:51,106kg,1.83,97
+AB150,Male,Elective,147,109,alive,alive,no, yes,106.4,1.83,0,0,0,1,18,19,99,0,21-Mar-22,28/06/2022 00:56,106.4kg,1.83,109
+AB933,Male,Elective,146,114,alive,alive,no, yes,108,1.83,0,2,0,1,10,11,146,0,26-Sep-22,19/02/2023 15:40,108kg,1.83,114
+AB196,Male,Urgent,141,116,alive,alive,no, yes,116,1.83,0,0,0,12,6,18,92,0,21-May-21,21/08/2021 20:13,116kg,1.83,116
+AB384,Male,Urgent,79,112,alive,alive,no,no,73.400002,1.84,0,0,6,13,7,20,117,0,03-Jun-22,28/09/2022 02:26,73.400002kg,1.84,112
+AB239,Male,Elective,139,92,alive,alive,no,no,81,1.84,6,1,0,1,11,12,112,0,25-Jul-22,14/11/2022 21:32,81kg,1.84,92
+AB258,Male,Urgent,141,74,alive,alive, yes, yes,83,1.84,12,4,18,1,60,61,120,0,28-Apr-22,26/08/2022 21:55,83kg,1.84,74
+AB706,Male,Urgent,144,75,alive,alive, yes, yes,83,1.84,10,6,14,1,53,54,112,0,11-Jul-22,31/10/2022 16:04,83kg,1.84,75
+AB842,Male,Urgent,114,97,alive,alive,no, yes,85,1.84,0,0,2,3,7,10,138,0,27-May-22,12/10/2022 03:35,85kg,1.84,97
+AB360,Male,Elective,157,120,alive,alive,no, yes,86,1.84,0,0,0,0,9,9,124,0,18-Dec-20,21/04/2021 02:05,86kg,1.84,120
+AB781,Male,Elective,137,101,alive,alive,no,no,91,1.84,4,1,0,2,5,7,122,0,12-Oct-22,11/02/2023 04:32,91kg,1.84,101
+AB611,Male,Elective,145,110,alive,alive,no, yes,94,1.84,0,0,0,1,16,17,111,0,27-Nov-21,18/03/2022 18:10,94kg,1.84,110
+AB940,Male,Elective,165,110,alive,alive,no, yes,95,1.84,5,2,0,1,6,7,97,1,18-Jul-21,23/10/2021 04:49,95kg,1.84,110
+AB900,Male,Urgent,145,113,alive,alive,no, yes,99.300003,1.84,0,0,0,2,10,12,93,0,25-Aug-21,26/11/2021 09:11,99.300003kg,1.84,113
+AB864,Male,Elective,155,131,alive,alive,no,no,103,1.84,0,0,0,1,7,8,101,0,28-Dec-21,08/04/2022 08:03,103kg,1.84,131
+AB229,Male,Urgent,162,96,alive,alive,no, yes,105,1.84,10,2,0,2,16,18,127,0,07-Jul-22,11/11/2022 17:22,105kg,1.84,96
+AB111,Male,Urgent,91,90,alive,alive,no, yes,105.3,1.84,6,1,5,5,10,15,114,1,14-Aug-22,06/12/2022 16:27,105.3kg,1.84,90
+AB733,Male,Elective,139,106,alive,alive,no, yes,106,1.84,0,0,0,1,11,12,91,0,30-Aug-21,29/11/2021 23:26,106kg,1.84,106
+AB093,Male,Urgent,144,127,alive,alive,no,no,107,1.84,0,0,0,6,7,13,103,0,12-Jan-22,25/04/2022 14:06,107kg,1.84,127
+AB543,Male,Elective,157,126,alive,alive,no, yes,107,1.84,0,0,0,1,6,7,133,0,17-Nov-21,30/03/2022 04:50,107kg,1.84,126
+AB597,Male,Elective,152,111,alive,alive,no,no,107.4,1.84,0,0,0,1,4,5,148,0,07-May-22,02/10/2022 11:59,107.4kg,1.84,111
+AB465,Male,Urgent,148,89,alive,alive,no, yes,114,1.84,7,2,0,3,4,7,144,0,27-Jul-22,18/12/2022 14:48,114kg,1.84,89
+AB397,Male,Elective,161,127,alive,alive,no,no,115,1.84,0,0,0,0,6,6,147,0,30-Apr-21,24/09/2021 10:04,115kg,1.84,127
+AB788,Male,Elective,154,110,alive,alive,no, yes,139,1.84,0,1,0,1,6,7,117,0,29-Oct-22,23/02/2023 17:10,139kg,1.84,110
+AB668,Male,Urgent,130,109,alive,alive,no, yes,72.300003,1.85,0,0,0,1,5,6,142,0,28-Jul-22,17/12/2022 09:25,72.300003kg,1.85,109
+AB311,Male,Elective,131,118,alive,alive,no,no,75,1.85,0,0,0,1,6,7,136,1,24-Aug-22,07/01/2023 17:35,75kg,1.85,118
+AB561,Male,Salvage,98,107,alive,alive, yes,no,80,1.85,5,2,17,3,62,65,146,0,29-Dec-21,24/05/2022 05:03,80kg,1.85,107
+AB687,Male,Elective,140,93,alive,alive,no,no,80,1.85,5,2,0,1,17,18,97,0,09-Feb-22,17/05/2022 22:11,80kg,1.85,93
+AB265,Male,Emergency,148,121,alive,alive,no, yes,88,1.85,0,2,1,1,24,25,114,0,19-Oct-20,10/02/2021 13:35,88kg,1.85,121
+AB488,Male,Emergency,127,89,alive,alive,no, yes,95,1.85,5,2,5,0,8,8,129,0,20-Jul-22,26/11/2022 16:52,95kg,1.85,89
+AB342,Male,Urgent,167,124,alive,alive,no,no,95.5,1.85,0,0,0,2,7,9,114,0,15-Mar-21,07/07/2021 13:58,95.5kg,1.85,124
+AB607,Male,Elective,146,102,alive,alive,no, yes,103.3,1.85,0,0,0,1,7,8,107,0,13-Dec-21,30/03/2022 10:07,103.3kg,1.85,102
+AB051,Male,Elective,135,92,alive,alive, yes,no,107,1.85,7,0,0,1,35,36,135,0,21-Sep-21,03/02/2022 07:01,107kg,1.85,92
+AB644,Male,Urgent,140,116,alive,alive,no, yes,112,1.85,0,0,0,19,7,26,86,0,06-Oct-22,31/12/2022 12:25,112kg,1.85,116
+AB902,Male,Elective,153,123,alive,alive,no, yes,123,1.85,0,0,0,1,40,41,148,0,12-Apr-22,07/09/2022 09:34,123kg,1.85,123
+AB109,Male,Elective,112,82,alive,alive,no, yes,133,1.85,0,0,2,1,13,14,113,0,30-Nov-22,23/03/2023 00:53,133kg,1.85,82
+AB340,Male,Elective,154,112,alive,alive,no, yes,136,1.85,0,0,0,2,5,7,123,0,18-May-22,18/09/2022 11:13,136kg,1.85,112
+AB220,Male,Urgent,133,108,alive,alive,no, yes,70.300003,1.86,0,0,0,1,8,9,128,0,27-Mar-22,02/08/2022 19:21,70.300003kg,1.86,108
+AB401,Male,Urgent,143,104,alive,alive,no, yes,71,1.86,0,0,0,2,6,8,139,0,30-Mar-22,16/08/2022 07:08,71kg,1.86,104
+AB849,Male,Urgent,141,99,alive,alive,no, yes,75,1.86,0,0,0,1,6,7,158,0,14-May-22,19/10/2022 08:03,75kg,1.86,99
+AB1009,Male,Salvage,95,106,alive,alive, yes,no,79,1.86,3,0,19,6,62,68,104,0,24-Aug-22,06/12/2022 01:48,79kg,1.86,106
+AB637,Male,Elective,143,98,alive,alive,no,no,80.400002,1.86,0,0,0,1,5,6,95,0,21-Jan-22,26/04/2022 02:50,80.400002kg,1.86,98
+AB547,Male,Elective,142,86,alive,alive,no,no,81,1.86,0,3,0,2,5,7,160,0,07-Oct-21,16/03/2022 10:28,81kg,1.86,86
+AB909,Male,Elective,140,103,alive,alive, yes, yes,83,1.86,0,0,2,2,5,7,119,0,09-Nov-21,08/03/2022 10:46,83kg,1.86,103
+AB995,Male,Elective,138,88,alive,alive,no,no,85,1.86,0,2,0,1,5,6,154,0,08-Dec-21,11/05/2022 05:46,85kg,1.86,88
+AB960,Male,Urgent,134,104,alive,alive, yes, yes,86.300003,1.86,5,2,4,7,4,11,154,0,26-Dec-21,29/05/2022 11:59,86.300003kg,1.86,104
+AB964,Male,Elective,151,111,alive,alive,no,no,89,1.86,0,0,0,2,2,4,148,0,18-Feb-22,16/07/2022 04:01,89kg,1.86,111
+AB199,Male,Elective,152,115,alive,alive,no,no,91,1.86,0,0,0,7,3,10,119,0,18-Apr-22,15/08/2022 15:31,91kg,1.86,115
+AB064,Male,Urgent,142,105,alive,alive,no, yes,94,1.86,0,0,4,2,7,9,92,0,21-Sep-21,22/12/2021 17:53,94kg,1.86,105
+AB100,Male,Elective,130,96,alive,alive,no,no,101,1.86,3,0,2,3,3,6,96,0,24-Jun-21,28/09/2021 18:44,101kg,1.86,96
+AB062,Male,Elective,162,100,alive,alive,no, yes,104,1.86,7,1,2,1,65,66,109,1,29-Oct-21,15/02/2022 00:03,104kg,1.86,100
+AB571,Male,Urgent,93,92,alive,alive,no, yes,106.3,1.86,6,2,6,6,10,16,104,0,17-Nov-21,01/03/2022 05:54,106.3kg,1.86,92
+AB149,Male,Elective,152,111,alive,alive,no,no,108.4,1.86,0,0,1,1,6,7,123,0,08-May-21,08/09/2021 03:59,108.4kg,1.86,111
+AB845,Male,Elective,159,128,alive,alive,no,no,113,1.86,0,0,0,1,6,7,125,0,20-Jul-21,22/11/2021 05:14,113kg,1.86,128
+AB009,Male,Elective,137,104,alive,alive,no, yes,133,1.86,0,0,1,0,6,6,91,1,14-Apr-22,14/07/2022 03:03,133kg,1.86,104
+AB035,Male,Urgent,118,86,alive,alive,no, yes,65,1.87,0,0,0,8,4,12,96,0,20-Jul-21,24/10/2021 10:12,65kg,1.87,86
+AB097,Male,Urgent,121,87,alive,alive, yes,no,65,1.87,5,0,6,8,14,22,92,1,22-May-22,22/08/2022 00:02,65kg,1.87,87
+AB751,Male,Urgent,134,85,alive,alive,no, yes,77,1.87,0,0,0,8,6,14,119,0,19-Oct-21,15/02/2022 23:04,77kg,1.87,85
+AB896,Male,Elective,144,113,alive,alive,no,no,81,1.87,0,0,0,1,7,8,117,0,27-Jul-22,21/11/2022 15:03,81kg,1.87,113
+AB656,Male,Urgent,92,81,alive,alive,no,no,82,1.87,5,3,6,2,13,15,131,0,09-Nov-21,20/03/2022 01:46,82kg,1.87,81
+AB867,Male,Elective,149,80,alive,alive,no, yes,84,1.87,5,3,7,1,9,10,146,0,30-Oct-21,25/03/2022 10:44,84kg,1.87,80
+AB512,Male,Urgent,135,100,alive,alive, yes, yes,86.300003,1.87,5,1,2,7,6,13,166,0,21-Aug-21,03/02/2022 21:37,86.300003kg,1.87,100
+AB419,Male,Elective,151,81,alive,alive,no, yes,91,1.87,4,1,6,2,5,7,139,0,05-Aug-21,22/12/2021 14:37,91kg,1.87,81
+AB418,Male,Elective,136,80,alive,alive,no,no,92,1.87,6,1,2,1,38,39,123,0,02-Dec-22,04/04/2023 23:49,92kg,1.87,80
+AB866,Male,Elective,131,83,alive,alive,no,no,93,1.87,5,2,2,1,41,42,115,0,09-Feb-22,04/06/2022 12:51,93kg,1.87,83
+AB913,Male,Urgent,150,93,alive,alive,no, yes,112,1.87,12,1,0,5,6,11,137,0,08-May-22,22/09/2022 15:20,112kg,1.87,93
+AB454,Male,Elective,155,119,alive,alive,no, yes,121,1.87,0,0,0,1,35,36,154,0,14-Jun-22,15/11/2022 02:23,121kg,1.87,119
+AB339,Male,Urgent,137,90,alive,alive,no, yes,61,1.88,3,1,0,18,10,28,127,0,11-Aug-21,16/12/2021 10:10,61kg,1.88,90
+AB885,Male,Elective,106,81,alive,alive,no,no,74,1.88,0,0,2,1,7,8,138,0,13-Feb-22,01/07/2022 22:41,74kg,1.88,81
+AB448,Male,Elective,141,111,alive,alive,no,no,79,1.88,0,0,0,1,3,4,122,0,16-Jan-22,18/05/2022 17:46,79kg,1.88,111
+AB658,Male,Urgent,84,96,alive,alive, yes, yes,80,1.88,5,3,10,19,6,25,124,0,02-Jun-22,04/10/2022 11:11,80kg,1.88,96
+AB208,Male,Urgent,90,83,alive,alive,no,no,84,1.88,4,1,4,2,18,20,121,0,03-Jul-22,01/11/2022 11:48,84kg,1.88,83
+AB400,Male,Elective,148,96,alive,alive, yes, yes,91,1.88,4,2,9,3,17,20,138,0,11-Apr-21,27/08/2021 03:50,91kg,1.88,96
+AB309,Male,Elective,148,108,alive,alive,no,no,92,1.88,0,0,2,3,5,8,131,0,31-Jul-21,09/12/2021 12:44,92kg,1.88,108
+AB848,Male,Elective,146,96,alive,alive, yes, yes,93,1.88,5,2,11,2,14,16,132,0,30-Oct-21,11/03/2022 10:32,93kg,1.88,96
+AB936,Male,Emergency,125,88,alive,alive,no, yes,94,1.88,5,3,4,0,9,9,99,0,02-Aug-22,09/11/2022 10:02,94kg,1.88,88
+AB444,Male,Elective,138,110,alive,alive,NA,no,99,1.88,0,0,0,1,8,9,130,0,17-Nov-20,27/03/2021 10:07,99kg,1.88,110
+AB747,Male,Elective,143,96,alive,alive,no, yes,121,1.88,0,0,0,1,8,9,115,0,16-Jan-22,11/05/2022 02:33,121kg,1.88,96
+AB014,Male,Elective,125,94,alive,alive,no, yes,,1.88,0,0,1,1,6,7,90,0,25-Mar-21,23/06/2021 00:42,103.8kg,1.88m,94
+AB787,Male,Urgent,137,89,alive,alive,no, yes,61,1.89,4,0,1,11,11,22,134,0,04-Jul-22,15/11/2022 22:18,61kg,1.89,89
+AB437,Male,Elective,107,80,alive,alive,no,no,72,1.89,0,0,3,1,6,7,139,0,25-Oct-21,13/03/2022 00:45,72kg,1.89,80
+AB319,Male,Elective,133,95,alive,alive,no, yes,86.400002,1.89,0,0,2,1,6,7,135,0,17-Aug-20,30/12/2020 09:03,86.400002kg,1.89,95
+AB767,Male,Elective,134,95,alive,alive,no, yes,87.400002,1.89,0,0,1,1,4,5,158,0,03-Mar-21,08/08/2021 00:59,87.400002kg,1.89,95
+AB647,Male,Elective,154,119,alive,alive,no,no,93,1.89,0,0,0,5,6,11,90,0,28-Apr-22,27/07/2022 14:00,93kg,1.89,119
+AB078,Male,Elective,136,99,alive,alive,no,no,106.3,1.89,0,0,0,1,5,6,122,0,26-Oct-22,25/02/2023 04:05,106.3kg,1.89,99
+AB210,Male,Urgent,83,93,alive,alive, yes, yes,80,1.9,6,2,12,15,7,22,106,0,20-Nov-22,06/03/2023 23:06,80kg,1.9,93
+AB700,Male,Elective,145,107,alive,alive,no,no,85,1.9,0,0,0,1,8,9,130,0,08-Sep-22,16/01/2023 16:06,85kg,1.9,107
+AB516,Male,Elective,151,108,alive,alive,no,no,86,1.9,0,0,0,1,2,3,148,0,19-Mar-22,14/08/2022 09:02,86kg,1.9,108
+AB892,Male,Elective,137,110,alive,alive,NA,no,95,1.9,0,0,0,2,7,9,136,0,22-May-22,05/10/2022 05:10,95kg,1.9,110
+AB141,Male,Elective,151,118,alive,alive,no, yes,99,1.9,0,0,0,1,6,7,105,1,05-Jan-22,20/04/2022 04:05,99kg,1.9,118
+AB380,Male,Elective,152,119,alive,alive,no, yes,100,1.9,0,0,0,1,4,5,126,0,22-Apr-21,26/08/2021 23:35,100kg,1.9,119
+AB549,Male,Elective,155,128,alive,alive,no, yes,100.8,1.9,0,0,0,1,5,6,149,0,02-Oct-22,28/02/2023 18:35,100.8kg,1.9,128
+AB828,Male,Elective,150,117,alive,alive,no, yes,102,1.9,0,0,0,1,6,7,132,0,13-Sep-22,23/01/2023 23:01,102kg,1.9,117
+AB886,Male,Elective,139,96,alive,alive,no, yes,102,1.9,0,0,0,1,10,11,108,1,29-Nov-21,17/03/2022 07:39,102kg,1.9,96
+AB252,Male,Elective,141,106,alive,alive,no,no,86,1.91,0,0,0,2,7,9,106,0,13-Apr-22,28/07/2022 19:01,86kg,1.91,106
+AB997,Male,Elective,153,127,alive,alive,no, yes,97.800003,1.91,0,0,0,1,7,8,122,0,27-Aug-21,27/12/2021 22:29,97.800003kg,1.91,127
+AB589,Male,Elective,152,118,alive,alive,no, yes,98,1.91,0,0,0,1,5,6,89,0,17-Nov-20,14/02/2021 17:58,98kg,1.91,118
+AB438,Male,Elective,138,94,alive,alive,no, yes,100,1.92,0,0,0,1,8,9,134,1,18-Jul-22,29/11/2022 05:21,100kg,1.92,94
+AB398,Male,Urgent,135,92,alive,alive,no, yes,115,1.92,0,2,3,2,6,8,122,0,03-Dec-21,04/04/2022 18:10,115kg,1.92,92
+AB299,Male,Elective,141,96,alive,alive,no, yes,119,1.92,0,1,2,1,8,9,116,0,16-May-22,09/09/2022 01:46,119kg,1.92,96
+AB507,Male,Urgent,137,84,alive,alive,no, yes,100,1.9299999,12,2,0,10,6,16,128,0,05-Aug-21,11/12/2021 07:26,100kg,1.9299999,84
+AB955,Male,Urgent,138,86,alive,alive,no, yes,98,1.9400001,12,1,0,8,4,12,99,0,26-Jan-22,05/05/2022 15:44,98kg,1.9400001,86
+AB846,Male,Urgent,134,92,alive,alive,no, yes,113,1.9400001,0,1,4,1,6,7,139,0,04-Oct-21,20/02/2022 10:15,113kg,1.9400001,92
+AB421,Male,Elective,138,101,alive,alive, yes,no,126,1.9400001,5,1,0,1,58,59,140,0,17-Aug-22,04/01/2023 10:41,126kg,1.9400001,101
+AB869,Male,Elective,133,98,alive,alive, yes,no,127,1.9400001,7,1,0,1,57,58,154,0,30-Dec-21,02/06/2022 19:27,127kg,1.9400001,98
+AB830,Male,Elective,144,111,alive,alive,no, yes,105.6,1.96,4,0,0,1,3,4,96,0,18-Mar-22,22/06/2022 03:51,105.6kg,1.96,111
+AB382,Male,Elective,143,110,alive,alive,no, yes,105.6,1.97,3,0,0,1,5,6,133,0,15-May-21,25/09/2021 11:02,105.6kg,1.97,110
+AB209,Female,Elective,144,83,alive,alive,no,no,53,9,2,1,4,1,11,12,107,0,16-May-22,31/08/2022 08:34,53kg,9,83
+AB657,Female,Elective,146,85,alive,alive,no,no,55,9,2,2,3,1,11,12,122,0,23-Feb-22,25/06/2022 18:10,55kg,9,85
+AB138,Female,Elective,126,97,alive,alive,no, yes,88,9,0,0,1,1,5,6,103,0,11-Oct-22,22/01/2023 11:50,88kg,9,97
+AB586,Female,Elective,123,100,alive,alive,no, yes,88,9,0,0,2,1,6,7,120,0,30-Jul-22,27/11/2022 09:50,88kg,9,100
+AB201,Male,Elective,125,91,alive,alive,no,no,174,9,0,0,2,1,8,9,116,0,07-Jan-22,03/05/2022 18:51,174kg,9,91
+AB649,Male,Elective,124,93,alive,alive,no,no,174,9,0,0,1,1,7,8,102,0,08-Dec-22,20/03/2023 02:09,174kg,9,93
+AB998,Male,Elective,102,99,died,alive, yes,no,,,16,13,46,11,49,60,56,1,16-Aug-22,11/10/2022 03:57,kg,,99
+AB1005,,,,,,,,,,,,,,,,,,,,,,,
+AB995,,,,,,,,,,,,,,,,,,,,,,,
+AB649,Male,Elective,124,93,alive,alive,no,no,174,9,0,0,1,1,7,8,102,0,08-Dec-22,20/03/2023 02:09,174kg,9,93
+AB998,Male,Elective,102,99,died,alive, yes,no,,,16,13,46,11,49,60,56,1,16-Aug-22,11/10/2022 03:57,kg,,99
+,Male,,,,,,,,,,,,,,,,,,,,,,
+,Male,,,,,,,,,,,,,,,,,,,,,,
+,Male,,,,,,,,,,,,,,,,,,,,,,
+,Male,,,,,,,,,,,,,,,,,,,,,,
