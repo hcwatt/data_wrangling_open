@@ -1,0 +1,7 @@
+"","hserial","pserial","anxiety","paingrade"
+"1",1001011,100101101,"Not anxious or depressed","Grade II - High intensity"
+"2",1001031,100103101,"Moderately anxious or depressed","Grade II - High intensity"
+"3",1001041,100104101,"Moderately anxious or depressed","Grade 0"
+"4",1001041,100104102,"","Grade 0"
+"5",1001051,100105101,"Not anxious or depressed","Grade 0"
+"6",1001061,100106101,"","Grade 0"
